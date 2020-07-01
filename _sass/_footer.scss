@@ -25,7 +25,7 @@
 
   .harvard-logo {
     float: right;
-    max-width: 288px;
+    max-width: 250px;
     display: none;
 
     @include breakpoint($large) {
@@ -66,6 +66,9 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .page__footer-follow {
