@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+---
+
+<p>
+  You can also find many DtAK publications on <a href="https://scholar.google.com/citations?user=hwQtFB0AAAAJ&hl=en&oi=sra">Finale's Google Scholar profile</a>.
+</p>
+
+{% include base_path %}
+
+{% for p in site.data.publications %}
+  <div class='publication'>
+    <strong>{{ p.title }}</strong>
+    <div class='publication-authors'> {{ p.authors }} </div>
+    <div class='publication-venue'>
+      <em>{{ p.venue }}</em>, {{ p.year }}
+      {% if p.pdf %}
+        <a href='{{p.pdf}}'>[pdf]</a>
+      {% endif %}
+      {% if p.link %}
+        <a href='{{p.link}}'>[link]</a>
+      {% endif %}
+      {% if p.code %}
+        <a href='{{p.code}}'>[code]</a>
+      {% endif %}
+      {% if p.preprint %}
+        <a href='{{p.preprint}}'>[preprint]</a>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}

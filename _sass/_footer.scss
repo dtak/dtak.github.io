@@ -23,6 +23,16 @@
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
+  .harvard-logo {
+    float: right;
+    max-width: 288px;
+    display: none;
+
+    @include breakpoint($large) {
+      display: inline-block;
+    }
+  }
+
   footer {
     @include clearfix;
     margin-left: auto;

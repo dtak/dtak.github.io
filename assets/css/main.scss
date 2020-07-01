@@ -39,3 +39,50 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.publication + .publication {
+  margin-top: 1rem;
+}
+
+.people {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -1rem;
+}
+
+.person {
+  padding: 1rem;
+  text-align: center;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+  display: block;
+  width: calc(25% - 1rem);
+
+  img {
+    border-radius: 50%;
+    margin-bottom: 5px;
+  }
+
+  .person--title {
+    font-size: .75em;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .person {
+    width: calc(33.33% - 1rem);
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .person {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .person {
+    width: 100%;
+  }
+}

@@ -1,0 +1,16 @@
+current:
+  - name: Finale Doshi-Velez
+    site: https://finale.seas.harvard.edu/
+    title: Principal Investigator
+  - name: Sonali Parbhoo
+    site: https://sites.google.com/view/sonali-parbhoo/home
+    title: Postdoctoral Fellow
+  - name: Andrew Ross
+    site: https://asross.github.io/
+    title: PhD Candidate
+    image: /images/people/andrew_ross.jpg
+former:
+  - name: Joe Futoma
+    site: https://jfutoma.github.io/
+    title: Postdoctoral Fellow
+    image: /images/people/joe_futoma.jpg
