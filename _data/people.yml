@@ -6,17 +6,23 @@ current:
   - name: Sonali Parbhoo
     site: https://sites.google.com/view/sonali-parbhoo/home
     title: Postdoctoral Fellow
+    image: /images/people/sonali.jpg
   - name: Weiwei Pan
     title: Postdoctoral Fellow
+    image: /images/people/weiwei.png
   - name: Melanie F. Pradier
     title: Postdoctoral Fellow
+    image: /images/pony_purple.png
   - name: Isaac Lage
     site: https://isaaclage.github.io/
     title: PhD Candidate
+    image: /images/pony_cyan.png
   - name: Yaniv Yacoby
     title: PhD Candidate
+    image: /images/people/yaniv.png
   - name: Jiayu Yao
     title: PhD Candidate
+    image: /images/pony_red.png
   - name: Andrew Ross
     site: https://asross.github.io/
     title: PhD Candidate
@@ -28,7 +34,10 @@ former:
     image: /images/people/joe_futoma.jpg
   - name: Michael C. Hughes
     title: Postdoctoral Fellow
+    image: /images/people/mike_hughes.jpg
   - name: Omer Gottesman
     title: PhD Graduate
+    image: /images/pony_blue.png
   - name: Muhammad Arjumand Masood
     title: PhD Graduate
+    image: /images/pony_green.png
