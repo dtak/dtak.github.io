@@ -1,10 +1,22 @@
 current:
   - name: Finale Doshi-Velez
     site: https://finale.seas.harvard.edu/
+    image: /images/people/finale.jpg
     title: Principal Investigator
   - name: Sonali Parbhoo
     site: https://sites.google.com/view/sonali-parbhoo/home
     title: Postdoctoral Fellow
+  - name: Weiwei Pan
+    title: Postdoctoral Fellow
+  - name: Melanie F. Pradier
+    title: Postdoctoral Fellow
+  - name: Isaac Lage
+    site: https://isaaclage.github.io/
+    title: PhD Candidate
+  - name: Yaniv Yacoby
+    title: PhD Candidate
+  - name: Jiayu Yao
+    title: PhD Candidate
   - name: Andrew Ross
     site: https://asross.github.io/
     title: PhD Candidate
@@ -14,3 +26,9 @@ former:
     site: https://jfutoma.github.io/
     title: Postdoctoral Fellow
     image: /images/people/joe_futoma.jpg
+  - name: Michael C. Hughes
+    title: Postdoctoral Fellow
+  - name: Omer Gottesman
+    title: PhD Graduate
+  - name: Muhammad Arjumand Masood
+    title: PhD Graduate

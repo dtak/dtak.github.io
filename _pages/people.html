@@ -37,9 +37,9 @@ permalink: /people/
   {% for p in site.data.people.former %}
     <div class='person'>
       {% if p.image %}
-        <img src='{{ p.image }}'>
+        <img class='person--image' src='{{ p.image }}'>
       {% else %}
-        <img src="/images/bio_photo.jpg">
+        <span class='person--image'>🦄</span>
       {% endif %}
 
       <div class='person--name'>
