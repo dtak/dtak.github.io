@@ -20,6 +20,6 @@ We use probabilistic methods to address many decision-making scenarios, with a f
     - How can we optimize policies given batches of heterogeneous data?
     - How can we provide useful information, even if we can't solve for a policy?
     - How can we characterize the limits of our ability to provide decision support?
-- Interpretability and Statistical methods for validation:
+- Interpretability and statistical methods for validation:
     - How can we estimate the quality of a policy from batch data?
     - How can we expose key elements of a model or policy for expert inspection?  
