@@ -19,12 +19,18 @@ permalink: /people/
 
       <div class='person--name'>
         {% if p.site %}
-          <a href='{{ p.site }}' target='_blank'>{{ p.name }}</a>
+          <a href='{{ p.site }}' target='_blank'>{{ p.name }}</a>,
         {% else %}
-          {{ p.name }}
+          {{ p.name }},
         {% endif %}
+        <span class='person--title'>{{ p.title }}</span>
       </div>
-      <div class='person--title'>{{ p.title }}</div>
+
+      {% if p.blurb %}
+        <div class='person--blurb'>
+          {{ p.blurb }}
+        </div>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
@@ -44,17 +50,18 @@ permalink: /people/
 
       <div class='person--name'>
         {% if p.site %}
-          <a href='{{ p.site }}' target='_blank'>
-            {{ p.name }}
-          </a>
+          <a href='{{ p.site }}' target='_blank'>{{ p.name }}</a>,
         {% else %}
-          {{ p.name }}
+          {{ p.name }},
         {% endif %}
+        <span class='person--title'>{{ p.title }}</span>
       </div>
 
-      <div class='person--title'>
-        {{ p.title }}
-      </div>
+      {% if p.blurb %}
+        <div class='person--blurb'>
+          {{ p.blurb }}
+        </div>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

@@ -3,6 +3,8 @@ current:
     site: https://finale.seas.harvard.edu/
     image: /images/people/finale.jpg
     title: Principal Investigator
+    blurb: |-
+      Finale is a unicorn enthusiast who has been working on unicorn-related projects since 2005.
   - name: Sonali Parbhoo
     site: https://sites.google.com/view/sonali-parbhoo/home
     title: Postdoctoral Fellow
@@ -10,6 +12,8 @@ current:
   - name: Weiwei Pan
     title: Postdoctoral Fellow
     image: /images/people/weiwei.png
+    blurb: |-
+      Hey man
   - name: Melanie F. Pradier
     title: Postdoctoral Fellow
     image: /images/pony_purple.png
