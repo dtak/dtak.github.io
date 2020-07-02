@@ -53,7 +53,6 @@
 .person {
   padding: 1rem;
   margin-right: 1rem;
-  margin-bottom: 1rem;
   position: relative;
   display: block;
   width: calc(25% - 1rem);
@@ -64,13 +63,32 @@
     margin-bottom: 5px;
   }
 
-  .person--name {
+  .person--name,
+  .person--title {
     text-align: center;
+  }
+
+  .person--title {
+    font-size: .75em;
   }
 
   .person--blurb {
     font-size: .75em;
-    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background: #eee;
+    margin-top: 10px;
+    display: none;
+  }
+
+  &:hover {
+    .person--blurb {
+      display: block;
+    }
+
+    .person--image {
+      opacity: 0.5;
+    }
   }
 }
 
