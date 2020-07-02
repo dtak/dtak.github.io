@@ -11,6 +11,7 @@
     - name: Weiwei Pan
       title: Research Associate
       site: https://onefishy.github.io
+      hover: /images/dodo_corn.png
       image: /images/people/weiwei.png
       blurb: |-
         I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
@@ -23,6 +24,7 @@
       image: /images/people/ike.jpg
     - name: Yaniv Yacoby
       title: PhD Candidate
+      hover: /images/fish_corn.png
       image: /images/people/yaniv.png
     - name: Jiayu Yao
       title: PhD Candidate
@@ -86,7 +88,7 @@
       site: https://www.michaelchughes.com/
     - name: Omer Gottesman
       title: PhD Graduate
-      image: /images/pony_blue.png
+      image: /images/people/omer.jpg
     - name: Muhammad Arjumand Masood
       title: PhD Graduate
       image: /images/pony_green.png
