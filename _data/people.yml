@@ -94,7 +94,7 @@
       image: /images/pony_green.png
     - name: Taylor Killian
       site: https://twkillian.github.io
-      title: Masters Student
+      title: ME Graduate
       image: /images/people/taylor_killian.jpg
       blurb: |-
         After graduating from Harvard in 2017, Taylor returned to work for MIT
@@ -105,3 +105,4 @@
     - name: Mahdi Pakdaman
       title: Postdoctoral Fellow
       image: /images/pony_cyan.png
+      site: https://scholar.google.com/citations?user=kVjUep8AAAAJ&hl=en
