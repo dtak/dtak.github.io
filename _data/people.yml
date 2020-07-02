@@ -8,11 +8,15 @@
       site: https://sites.google.com/view/sonali-parbhoo/home
       title: Postdoctoral Fellow
       image: /images/people/sonali.jpg
+      blurb: |-
+        My research focuses on reasoning in uncertainty, causal inference, and learning interpretable models for medical decision-making and problems in healthcare. I completed my PhD in 2019 at the University of Basel in Switzerland, where I was advised by Prof. Volker Roth.  Prior to this, I received my MSc at the University of the Witwatersrand, South Africa. Apart from research, I enjoy travelling, learning about other cultures, playing badminton and cooking.
     - name: Weiwei Pan
       title: Research Associate
       site: https://onefishy.github.io
       hover: /images/dodo_corn.png
       image: /images/people/weiwei.png
+      blurb: |-
+        I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
     - name: Melanie F. Pradier
       title: Postdoctoral Fellow
       image: /images/pony_purple.png
@@ -20,11 +24,16 @@
       site: https://isaaclage.github.io/
       title: PhD Student
       image: /images/people/ike.jpg
+      hover: /images/cat_corn.png
+      blurb: |-
+        In my research, I work on improving human-machine decision making by optimizing machine learning models with human feedback. In my free time, I enjoy cooking, and playing board games with my partner and cat (the cat is a sore loser).
     - name: Yaniv Yacoby
       title: PhD Student
       site: https://yanivyacoby.github.io/
       hover: /images/fish_corn.png
       image: /images/people/yaniv.png
+      blurb: |-
+        I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
     - name: Jiayu Yao
       title: PhD Student
       site: https://scholar.google.com/citations?user=bqj1KxkAAAAJ&hl=en
@@ -40,6 +49,8 @@
     - name: Anna LI
       title: PhD Student
       image: /images/people/anna.jpg
+      blurb: |-
+        I did my undergrad at UC Berkeley in Applied Math and a minor in American History. In industry, I worked for 2 years as a Software Development Engineer at Amazon. I was the technical lead for mobile app development in the acquisition of Whole Foods Market onto Amazon.com and the launch of Amazon Fresh 2 hour delivery as a core Prime benefit. I enjoy dancing, playing the piano, preforming a one person show of Hamilton the Musical to myself, and playing Nintendo games!
     - name: Eura Shin
       title: PhD Student
       image: /images/pony_blue.png
@@ -71,10 +82,14 @@
       title: Undergraduate Researcher
       image: /images/people/wanqian.jpg
       site: https://wanqianyang.me/
+      blurb: |-
+        I recently graduated from Harvard College, jointly in Computer Science and Statistics. My interest are modeling uncertainty in deep learning, computational cognitive neuroscience, as well as interpretability in ML. I've spent a summer doing data science with the Siri Search team at Apple and another summer on ML research for Nuro, an autonomous vehicle startup. In my spare time, I like exploring the outdoors, catching plays or musicals, and checking out cool restaurants or bars. I was born and raised on the sunny shores of Singapore and have never quite adapted to Cambridge weather.
     - name: Nari Johnson
       title: Undergraduate Researcher
       image: /images/people/nari.jpg
       site: https://scholar.harvard.edu/narijohnson/bio
+      blurb: |-
+         I am an undergraduate at the college pursuing a B.A. and M.S. in Computer Science!  I enjoy reading, podcasts, live music, and sampling plant-based milk alternative lattes.
 - section: "Former Members"
   members:
     - name: Omer Gottesman
