@@ -18,80 +18,77 @@
       image: /images/pony_purple.png
     - name: Isaac Lage
       site: https://isaaclage.github.io/
-      title: PhD Candidate
+      title: PhD Student
       image: /images/people/ike.jpg
     - name: Yaniv Yacoby
-      title: PhD Candidate
+      title: PhD Student
       site: https://yanivyacoby.github.io/
       hover: /images/fish_corn.png
       image: /images/people/yaniv.png
     - name: Jiayu Yao
-      title: PhD Candidate
+      title: PhD Student
       site: https://scholar.google.com/citations?user=bqj1KxkAAAAJ&hl=en
       image: /images/pony_red.png
     - name: Andrew Ross
       site: https://asross.github.io/
-      title: PhD Candidate
+      title: PhD Student
       hover: /images/fish_corn.png
       image: /images/people/andrew_ross.jpg
+    - name: Beau Coker
+      title: PhD Student
+      image: /images/pony_orange.png
     - name: Anna LI
-      title: PhD Candidate
+      title: PhD Student
       image: /images/people/anna.jpg
     - name: Eura Shin
-      title: PhD Candidate
+      title: PhD Student
       image: /images/pony_blue.png
     - name: Sarah Rathnam
-      title: PhD Candidate
+      title: PhD Student
       image: /images/pony_green.png
     - name: Abhishek Sharma
-      title: PhD Candidate
+      title: PhD Student
       image: /images/pony_yellow.png
-    - name: Beau Coker
-      title: PhD Candidate
+    - name: Cooper Lorsung
+      title: Master's Student
+      image: /images/pony_blue.png
+    - name: Sujay Thakur
+      title: Master's Student
+      image: /images/pony_cyan.png
+    - name: Theo Guenais
+      title: Master's Student
+      image: /images/pony_green.png
+    - name: Dimitris Vamvourellis
+      title: Master's Student
+      image: /images/pony_yellow.png
+    - name: Michael Downs
+      title: Master's Student
       image: /images/pony_orange.png
-      
-- section: "Undergrad and Masters Students"
-  members:
+    - name: Jonathan Chu
+      title: Master's Student
+      image: /images/pony_red.png
     - name: Wanqian Yang
       title: Undergraduate Researcher
       image: /images/people/wanqian.jpg
     - name: Nari Johson
       title: Undergraduate Researcher
       image: /images/people/nari.jpg
-    - name: Cooper Lorsung
-      title: Masters Researcher
-      image: /images/pony_blue.png
-    - name: Sujay Thakur
-      title: Masters Researcher
-      image: /images/pony_cyan.png
-    - name: Theo Guenais
-      title: Masters Researcher
-      image: /images/pony_green.png
-    - name: Dimitris Vamvourellis
-      title: Masters Researcher
-      image: /images/pony_yellow.png
-    - name: Michael Downs
-      title: Masters Researcher
-      image: /images/pony_orange.png
-    - name: Jonathan Chu
-      title: Masters Researcher
-      image: /images/pony_red.png
 - section: "Former Members"
   members:
+    - name: Omer Gottesman
+      title: PhD Graduate
+      image: /images/people/omer.jpg
     - name: Joe Futoma
       site: https://jfutoma.github.io/
       title: Postdoctoral Fellow
       image: /images/people/joe_futoma.jpg
+    - name: Muhammad Arjumand Masood
+      title: PhD Graduate
+      image: /images/pony_green.png
     - name: Michael C. Hughes
       title: Postdoctoral Fellow
       image: /images/people/mike_hughes.jpg
       site: https://www.michaelchughes.com/
-    - name: Omer Gottesman
-      title: PhD Graduate
-      image: /images/people/omer.jpg
-    - name: Muhammad Arjumand Masood
-      title: PhD Graduate
-      image: /images/pony_green.png
     - name: Taylor Killian
       site: https://twkillian.github.io
       title: ME Graduate
