@@ -24,6 +24,7 @@
       image: /images/people/ike.jpg
     - name: Yaniv Yacoby
       title: PhD Candidate
+      site: https://yanivyacoby.github.io/
       hover: /images/fish_corn.png
       image: /images/people/yaniv.png
     - name: Jiayu Yao
