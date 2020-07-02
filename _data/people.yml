@@ -70,14 +70,17 @@
     - name: Wanqian Yang
       title: Undergraduate Researcher
       image: /images/people/wanqian.jpg
-    - name: Nari Johson
+      site: https://wanqianyang.me/
+    - name: Nari Johnson
       title: Undergraduate Researcher
       image: /images/people/nari.jpg
+      site: https://scholar.harvard.edu/narijohnson/bio
 - section: "Former Members"
   members:
     - name: Omer Gottesman
       title: PhD Graduate
       image: /images/people/omer.jpg
+      site: https://scholar.google.com/citations?user=glNJx5zYUbsC&hl=en
     - name: Joe Futoma
       site: https://jfutoma.github.io/
       title: Postdoctoral Fellow
