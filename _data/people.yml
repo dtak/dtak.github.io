@@ -95,7 +95,13 @@
     - name: Taylor Killian
       site: https://twkillian.github.io
       title: Masters Student
-      image: /images/pony_purple.png
+      image: /images/people/taylor_killian.jpg
+      blurb: |-
+        After graduating from Harvard in 2017, Taylor returned to work for MIT
+        Lincoln Laboratory and is currently pursuing a PhD from the University
+        of Toronto, affiliated with Vector Institute. His research encompasses
+        various efforts addressing decision making under uncertainty grounded
+        in challenges within healthcare.
     - name: Mahdi Pakdaman
       title: Postdoctoral Fellow
       image: /images/pony_cyan.png
