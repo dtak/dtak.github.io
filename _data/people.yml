@@ -4,8 +4,6 @@
       site: https://finale.seas.harvard.edu/
       image: /images/people/finale.jpg
       title: Principal Investigator
-      blurb: |-
-        Finale is a unicorn enthusiast who has been working on unicorn-related projects since 2005.
     - name: Sonali Parbhoo
       site: https://sites.google.com/view/sonali-parbhoo/home
       title: Postdoctoral Fellow
@@ -15,7 +13,7 @@
       site: https://onefishy.github.io
       image: /images/people/weiwei.png
       blurb: |-
-        Hey man
+        I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
     - name: Melanie F. Pradier
       title: Postdoctoral Fellow
       image: /images/pony_purple.png
