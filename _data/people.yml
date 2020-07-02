@@ -3,11 +3,13 @@
     - name: Finale Doshi-Velez
       site: https://finale.seas.harvard.edu/
       image: /images/people/finale.jpg
+      hover: /images/people/finale.jpg
       title: Principal Investigator
     - name: Sonali Parbhoo
       site: https://sites.google.com/view/sonali-parbhoo/home
       title: Postdoctoral Fellow
       image: /images/people/sonali.jpg
+      hover: /images/people/sonali.jpg
     - name: Weiwei Pan
       title: Research Associate
       site: https://onefishy.github.io
@@ -16,10 +18,12 @@
     - name: Melanie F. Pradier
       title: Postdoctoral Fellow
       image: /images/pony_purple.png
+      hover: /images/pony_purple.png
     - name: Isaac Lage
       site: https://isaaclage.github.io/
       title: PhD Candidate
       image: /images/people/ike.jpg
+      hover: /images/people/ike.jpg
     - name: Yaniv Yacoby
       title: PhD Candidate
       site: https://yanivyacoby.github.io/
@@ -28,6 +32,7 @@
     - name: Jiayu Yao
       title: PhD Candidate
       image: /images/pony_red.png
+      hover: /images/pony_red.png
     - name: Andrew Ross
       site: https://asross.github.io/
       title: PhD Candidate
@@ -36,58 +41,75 @@
     - name: Anna LI
       title: PhD Candidate
       image: /images/people/anna.jpg
+      hover: /images/people/anna.jpg
     - name: Eura Shin
       title: PhD Candidate
       image: /images/pony_blue.png
+      hover: /images/pony_blue.png
     - name: Sarah Rathnam
       title: PhD Candidate
       image: /images/pony_green.png
+      hover: /images/pony_green.png
     - name: Abhishek Sharma
       title: PhD Candidate
       image: /images/pony_yellow.png
+      hover: /images/pony_yellow.png
     - name: Beau Coker
       title: PhD Candidate
       image: /images/pony_orange.png
+      hover: /images/pony_orange.png
       
 - section: "Undergrad and Masters Students"
   members:
     - name: Wanqian Yang
       title: Undergraduate Researcher
       image: /images/people/wanqian.jpg
+      hover: /images/people/wanqian.jpg
     - name: Nari Johson
       title: Undergraduate Researcher
       image: /images/people/nari.jpg
+      hover: /images/people/nari.jpg
     - name: Cooper Lorsung
       title: Masters Researcher
       image: /images/pony_blue.png
+      hover: /images/pony_blue.png
     - name: Sujay Thakur
       title: Masters Researcher
       image: /images/pony_cyan.png
+      hover: /images/pony_cyan.png
     - name: Theo Guenais
       title: Masters Researcher
       image: /images/pony_green.png
+      hover: /images/pony_green.png
     - name: Dimitris Vamvourellis
       title: Masters Researcher
       image: /images/pony_yellow.png
+      hover: /images/pony_yellow.png
     - name: Michael Downs
       title: Masters Researcher
       image: /images/pony_orange.png
+      hover: /images/pony_orange.png
     - name: Jonathan Chu
       title: Masters Researcher
       image: /images/pony_red.png
+      hover: /images/pony_red.png
 - section: "Former Members"
   members:
     - name: Joe Futoma
       site: https://jfutoma.github.io/
       title: Postdoctoral Fellow
       image: /images/people/joe_futoma.jpg
+      hover: /images/people/joe_futoma.jpg
     - name: Michael C. Hughes
       title: Postdoctoral Fellow
       image: /images/people/mike_hughes.jpg
+      hover: /images/people/mike_hughes.jpg
       site: https://www.michaelchughes.com/
     - name: Omer Gottesman
       title: PhD Graduate
       image: /images/people/omer.jpg
+      hover: /images/people/omer.jpg
     - name: Muhammad Arjumand Masood
       title: PhD Graduate
       image: /images/pony_green.png
+      hover: /images/pony_green.png
