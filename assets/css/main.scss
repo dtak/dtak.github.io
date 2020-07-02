@@ -53,7 +53,6 @@
 .person {
   padding: 1rem;
   margin-right: 1rem;
-  position: relative;
   display: block;
   width: calc(25% - 1rem);
 
@@ -83,22 +82,9 @@
     font-size: .75em;
   }
 
-  .person__blurb {
-    font-size: .75em;
-    padding: 5px;
-    border: 1px solid #ccc;
-    background: #eee;
-    margin-top: 10px;
-    display: none;
-  }
-
   &:hover, &:focus {
-    .person__blurb {
-      display: block;
-    }
-
     .person__image__headshot {
-      opacity: 0.333;
+      opacity: 0.5;
     }
     .person__image__hover {
       opacity: 1;

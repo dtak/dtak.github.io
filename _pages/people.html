@@ -9,7 +9,7 @@ permalink: /people/
 
   <div class='people'>
     {% for p in s.members %}
-      <div class='person' tabindex='0'>
+      <div class='person' tabindex='0' {% if p.blurb %} data-tippy-content='{{ p.blurb }}' {% endif %}>
         <div class='person__image'>
           {% if p.hover %}
             <img class='person__image__hover' src='{{ p.hover }}'>
@@ -25,12 +25,6 @@ permalink: /people/
           {% endif %}
         </div>
         <div class='person__title'>{{ p.title }}</div>
-
-        {% if p.blurb %}
-          <div class='person__blurb'>
-            {{ p.blurb }}
-          </div>
-        {% endif %}
       </div>
     {% endfor %}
   </div>
