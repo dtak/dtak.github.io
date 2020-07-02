@@ -1,48 +1,50 @@
-current:
-  - name: Finale Doshi-Velez
-    site: https://finale.seas.harvard.edu/
-    image: /images/people/finale.jpg
-    title: Principal Investigator
-    blurb: |-
-      Finale is a unicorn enthusiast who has been working on unicorn-related projects since 2005.
-  - name: Sonali Parbhoo
-    site: https://sites.google.com/view/sonali-parbhoo/home
-    title: Postdoctoral Fellow
-    image: /images/people/sonali.jpg
-  - name: Weiwei Pan
-    title: Postdoctoral Fellow
-    image: /images/people/weiwei.png
-    blurb: |-
-      Hey man
-  - name: Melanie F. Pradier
-    title: Postdoctoral Fellow
-    image: /images/pony_purple.png
-  - name: Isaac Lage
-    site: https://isaaclage.github.io/
-    title: PhD Candidate
-    image: /images/pony_cyan.png
-  - name: Yaniv Yacoby
-    title: PhD Candidate
-    image: /images/people/yaniv.png
-  - name: Jiayu Yao
-    title: PhD Candidate
-    image: /images/pony_red.png
-  - name: Andrew Ross
-    site: https://asross.github.io/
-    title: PhD Candidate
-    image: /images/people/andrew_ross.jpg
-former:
-  - name: Joe Futoma
-    site: https://jfutoma.github.io/
-    title: Postdoctoral Fellow
-    image: /images/people/joe_futoma.jpg
-  - name: Michael C. Hughes
-    title: Postdoctoral Fellow
-    image: /images/people/mike_hughes.jpg
-    site: https://www.michaelchughes.com/
-  - name: Omer Gottesman
-    title: PhD Graduate
-    image: /images/pony_blue.png
-  - name: Muhammad Arjumand Masood
-    title: PhD Graduate
-    image: /images/pony_green.png
+- section: "Current Lab Members"
+  members:
+    - name: Finale Doshi-Velez
+      site: https://finale.seas.harvard.edu/
+      image: /images/people/finale.jpg
+      title: Principal Investigator
+      blurb: |-
+        Finale is a unicorn enthusiast who has been working on unicorn-related projects since 2005.
+    - name: Sonali Parbhoo
+      site: https://sites.google.com/view/sonali-parbhoo/home
+      title: Postdoctoral Fellow
+      image: /images/people/sonali.jpg
+    - name: Weiwei Pan
+      title: Postdoctoral Fellow
+      image: /images/people/weiwei.png
+      blurb: |-
+        Hey man
+    - name: Melanie F. Pradier
+      title: Postdoctoral Fellow
+      image: /images/pony_purple.png
+    - name: Isaac Lage
+      site: https://isaaclage.github.io/
+      title: PhD Candidate
+      image: /images/pony_cyan.png
+    - name: Yaniv Yacoby
+      title: PhD Candidate
+      image: /images/people/yaniv.png
+    - name: Jiayu Yao
+      title: PhD Candidate
+      image: /images/pony_red.png
+    - name: Andrew Ross
+      site: https://asross.github.io/
+      title: PhD Candidate
+      image: /images/people/andrew_ross.jpg
+- section: "Former Members"
+  members:
+    - name: Joe Futoma
+      site: https://jfutoma.github.io/
+      title: Postdoctoral Fellow
+      image: /images/people/joe_futoma.jpg
+    - name: Michael C. Hughes
+      title: Postdoctoral Fellow
+      image: /images/people/mike_hughes.jpg
+      site: https://www.michaelchughes.com/
+    - name: Omer Gottesman
+      title: PhD Graduate
+      image: /images/pony_blue.png
+    - name: Muhammad Arjumand Masood
+      title: PhD Graduate
+      image: /images/pony_green.png
