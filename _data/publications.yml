@@ -2,11 +2,16 @@
   year: 2020
   authors: Michael C. Hughes, Melanie F. Pradier, Andrew Slavin Ross, Thomas H. McCoy Jr., Roy H. Perlis, and Finale Doshi-Velez
   venue: JAMA Psychiatry
-  link: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2766073
+  links:
+    - text: "link"
+      url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2766073
 
 - title: Ensembles of Locally Independent Prediction Models
   year: 2020
   authors: Andrew Slavin Ross, Weiwei Pan, Leo Anthony Celi, and Finale Doshi-Velez
   venue: AAAI
-  link: https://arxiv.org/pdf/1911.01291.pdf
-  code: https://github.com/dtak/lit
+  links:
+    - text: "pdf"
+      url: https://arxiv.org/pdf/1911.01291.pdf
+    - text: "code"
+      url: https://github.com/dtak/lit

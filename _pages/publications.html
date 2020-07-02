@@ -13,20 +13,13 @@ permalink: /publications/
 {% for p in site.data.publications %}
   <div class='publication'>
     <strong>{{ p.title }}</strong>
-    <div class='publication-authors'> {{ p.authors }} </div>
-    <div class='publication-venue'>
+    <div class='publication--authors'> {{ p.authors }} </div>
+    <div class='publication--venue-and-links'>
       <em>{{ p.venue }}</em>, {{ p.year }}
-      {% if p.pdf %}
-        <a href='{{p.pdf}}'>[pdf]</a>
-      {% endif %}
-      {% if p.link %}
-        <a href='{{p.link}}'>[link]</a>
-      {% endif %}
-      {% if p.code %}
-        <a href='{{p.code}}'>[code]</a>
-      {% endif %}
-      {% if p.preprint %}
-        <a href='{{p.preprint}}'>[preprint]</a>
+      {% if p.links %}
+        {% for link in p.links %}
+          <a href='{{link.url}}' target='_blank'>[{{link.text}}]</a>
+        {% endfor %}
       {% endif %}
     </div>
   </div>
