@@ -1,31 +1,73 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# DtAK Lab Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+This is the DtAK website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io).
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## To add your [publications](https://dtak.github.io/publications)
 
-# Instructions
+Update [`_data/publications.yml`](./_data/publications.yml) to include a new YAML array entry of the form:
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+```yaml
+- title: UnICoRn: Unsupervised Interpretable COol RepresentatioNs
+  year: 2020
+  authors: me, you, and Finale Doshi-Velez
+  venue: Yaniv's International Conference on Unsupervised Probability
+  links:
+    - text: "pdf"
+      url: https://arxiv.org/pdf/XXXX.YYYYY.pdf
+    - text: "code"
+      url: https://github.com/dtak/ZZZZZZ
+```
 
-See more info at https://academicpages.github.io/
+The `links` section is a sub-array where you can list any number of links (which will appear in brackets at the end of the entry, with your specified `text` and `url`). For consistency, we recommend using `pdf` to link directly to the paper PDF, `link` to link to the paper in the context of its publication venue, and `code` to link to an associated Github repository.
+
+Note that the list is not automatically sorted, so please try to insert your publication in the appropriate place chronologically!
+
+## To update your [profile](https://dtak.github.io/people)
+
+Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which should look something like this:
+
+```yaml
+- name: (your name, e.g. Knickerbocker Thaddeus P. Flufferkins)
+  site: (your optional personal website, e.g. https://youtu.be/oHg5SJYRHA0)
+  title: (your title, e.g. Extremely Tired PhD Candidate)
+  image: (a link to your 400x400 picture, e.g. /images/people/flufferkins.png)
+  blurb: |-
+    (an optional very short description of your work)
+```
+
+Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. You can compress images down to 400x400 using [this compressor](https://imagecompressor.com/) if you need.
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Although you can make the above edits through the Github web interface if you wish, it's better if you can get it running locally on your computer to confirm your changes have the intended effect before committing to master (which will automatically deploy the site). Here are instructions for how to do that:
 
-# Changelog -- bugfixes and enhancements
+1. Clone the repository and cd into the directory
+1. Make sure you have [ruby](https://www.ruby-lang.org/en/) and [node](https://nodejs.org/en/) installed
+    - On Linux, something like `sudo apt install ruby-dev ruby-bundler nodejs` should work
+    - On Mac, if you've installed [homebrew](https://brew.sh/), `brew install ruby` and `brew install node` should hopefully do the trick (though using a Ruby version manager like [rbenv](https://github.com/rbenv/rbenv) is recommended if slightly more complicated)
+    - Run `gem install bundler` if you've just installed (a new version of) Ruby
+1. Run `bundle install` to install Ruby dependencies.
+1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000`. The local server will automatically rebuild changed pages, though it may take a few seconds and require refreshing.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Adding additional pages
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+To add additional pages to the website, create a new HTML or markdown file under `_pages/`, e.g. `_pages/mypage.html` or `_pages/mypage.md`.
+
+The first five lines of this new file should be:
+
+```
+---
+layout: archive
+title: "My new page title"
+permalink: /mypage/
+---
+```
+
+where the `permalink` field matches the file name. Then you can fill in the rest of the page with whatever content you want!
+
+If you want this page to appear in the top-level navigation, you can edit [`_data/navigation.yml`](./_data/navigation.yml) and add a new entry for the new page, e.g.:
+
+```yaml
+- title: "My New Page"
+  url: /mypage/
+```
