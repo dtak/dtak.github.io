@@ -20,7 +20,7 @@
     - name: Isaac Lage
       site: https://isaaclage.github.io/
       title: PhD Candidate
-      image: /images/pony_cyan.png
+      image: /images/ike.jpg
     - name: Yaniv Yacoby
       title: PhD Candidate
       image: /images/people/yaniv.png
@@ -34,7 +34,7 @@
       image: /images/people/andrew_ross.jpg
     - name: Anna LI
       title: PhD Candidate
-      image: /images/pony_cyan.png
+      image: /images/anna.jpg
     - name: Eura Shin
       title: PhD Candidate
       image: /images/pony_blue.png
@@ -52,10 +52,10 @@
   members:
     - name: Wanqian Yang
       title: Undergraduate Researcher
-      image: /images/pony_red.png
+      image: /images/wanqian.jpg
     - name: Nari Johson
       title: Undergraduate Researcher
-      image: /images/pony_purple.png
+      image: /images/nari.jpg
     - name: Cooper Lorsung
       title: Masters Researcher
       image: /images/pony_blue.png
