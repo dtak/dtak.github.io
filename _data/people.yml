@@ -70,6 +70,12 @@
     - name: Dimitris Vamvourellis
       title: Masters Researcher
       image: /images/pony_yellow.png
+    - name: Michael Downs
+      title: Masters Researcher
+      image: /images/pony_orange.png
+    - name: Jonathan Chu
+      title: Masters Researcher
+      image: /images/pony_red.png
 - section: "Former Members"
   members:
     - name: Joe Futoma
