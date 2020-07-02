@@ -9,26 +9,25 @@ permalink: /people/
 
   <div class='people'>
     {% for p in s.members %}
-      <div class='person'>
-        {% if p.site %}
-          <a href='{{ p.site }}' target='_blank'>
-            <img class='person--image' src='{{ p.image }}'>
-          </a>
-        {% else %}
-          <img class='person--image' src='{{ p.image }}'>
-        {% endif %}
+      <div class='person' tabindex='0'>
+        <div class='person__image'>
+          {% if p.hover %}
+            <img class='person__image__hover' src='{{ p.hover }}'>
+          {% endif %}
+          <img class='person__image__headshot' src='{{ p.image }}'>
+        </div>
 
-        <div class='person--name'>
+        <div class='person__name'>
           {% if p.site %}
             <a href='{{ p.site }}' target='_blank'>{{ p.name }}</a>
           {% else %}
             {{ p.name }}
           {% endif %}
         </div>
-        <div class='person--title'>{{ p.title }}</div>
+        <div class='person__title'>{{ p.title }}</div>
 
         {% if p.blurb %}
-          <div class='person--blurb'>
+          <div class='person__blurb'>
             {{ p.blurb }}
           </div>
         {% endif %}

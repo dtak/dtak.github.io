@@ -31,8 +31,9 @@ Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which shou
   site: (your optional personal website, e.g. https://youtu.be/oHg5SJYRHA0)
   title: (your title, e.g. Extremely Tired PhD Candidate)
   image: (a link to your 400x400 picture, e.g. /images/people/flufferkins.png)
+  hover: (a link to an easter egg picture that will be overlaid on hover, e.g. /images/pony_blue.png)
   blurb: |-
-    (an optional very short description of your work)
+    (an optional very short description of your work that will appear on hover)
 ```
 
 Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. You can compress images down to 400x400 using [this compressor](https://imagecompressor.com/) if you need.

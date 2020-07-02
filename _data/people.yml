@@ -31,6 +31,7 @@
     - name: Andrew Ross
       site: https://asross.github.io/
       title: PhD Candidate
+      hover: /images/fish_corn.png
       image: /images/people/andrew_ross.jpg
 - section: "Former Members"
   members:

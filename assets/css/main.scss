@@ -57,22 +57,33 @@
   display: block;
   width: calc(25% - 1rem);
 
-  img {
-    width: 100%;
-    border-radius: 50%;
-    margin-bottom: 5px;
+  .person__image {
+    position: relative;
+
+    img {
+      width: 100%;
+      border-radius: 10000px;
+      margin-bottom: 5px;
+    }
+
+    .person__image__hover {
+      opacity: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
   }
 
-  .person--name,
-  .person--title {
+  .person__name,
+  .person__title {
     text-align: center;
   }
 
-  .person--title {
+  .person__title {
     font-size: .75em;
   }
 
-  .person--blurb {
+  .person__blurb {
     font-size: .75em;
     padding: 5px;
     border: 1px solid #ccc;
@@ -81,13 +92,16 @@
     display: none;
   }
 
-  &:hover {
-    .person--blurb {
+  &:hover, &:focus {
+    .person__blurb {
       display: block;
     }
 
-    .person--image {
-      opacity: 0.5;
+    .person__image__headshot {
+      opacity: 0.333;
+    }
+    .person__image__hover {
+      opacity: 1;
     }
   }
 }
