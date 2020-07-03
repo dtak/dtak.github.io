@@ -3,6 +3,7 @@
     - name: Finale Doshi-Velez
       site: https://finale.seas.harvard.edu/
       image: /images/people/finale.jpg
+      hover: /images/people/finale.jpg
       title: Principal Investigator
     - name: Sonali Parbhoo
       site: https://sites.google.com/view/sonali-parbhoo/home
@@ -40,6 +41,7 @@
       title: PhD Student
       site: https://scholar.google.com/citations?user=bqj1KxkAAAAJ&hl=en
       image: /images/pony_red.png
+      hover: /images/pony_red.png
     - name: Andrew Ross
       site: https://asross.github.io/
       title: PhD Student
@@ -48,47 +50,60 @@
     - name: Beau Coker
       title: PhD Student
       image: /images/pony_orange.png
+      hover: /images/pony_orange.png
     - name: Anna LI
       title: PhD Student
       image: /images/people/anna.jpg
+      hover: /images/people/anna.jpg
       blurb: |-
         I did my undergrad at UC Berkeley in Applied Math and a minor in American History. In industry, I worked for 2 years as a Software Development Engineer at Amazon. I was the technical lead for mobile app development in the acquisition of Whole Foods Market onto Amazon.com and the launch of Amazon Fresh 2 hour delivery as a core Prime benefit. I enjoy dancing, playing the piano, preforming a one person show of Hamilton the Musical to myself, and playing Nintendo games!
     - name: Eura Shin
       title: PhD Student
       image: /images/pony_blue.png
+      hover: /images/pony_blue.png
     - name: Sarah Rathnam
       title: PhD Student
       image: /images/pony_green.png
+      hover: /images/pony_green.png
     - name: Abhishek Sharma
       title: PhD Student
       image: /images/pony_yellow.png
+      hover: /images/pony_yellow.png
     - name: Cooper Lorsung
       title: Master's Student
       image: /images/pony_blue.png
+      hover: /images/pony_blue.png
     - name: Sujay Thakur
       title: Master's Student
       image: /images/pony_cyan.png
+      hover: /images/pony_cyan.png
     - name: Theo Guenais
       title: Master's Student
       image: /images/pony_green.png
+      hover: /images/pony_green.png
     - name: Dimitris Vamvourellis
       title: Master's Student
       image: /images/pony_yellow.png
+      hover: /images/pony_yellow.png
     - name: Michael Downs
       title: Master's Student
       image: /images/pony_orange.png
+      hover: /images/pony_orange.png
     - name: Jonathan Chu
       title: Master's Student
       image: /images/pony_red.png
+      hover: /images/pony_red.png
     - name: Wanqian Yang
       title: Undergraduate Researcher
       image: /images/people/wanqian.jpg
+      hover: /images/people/wanqian.jpg
       site: https://wanqianyang.me/
       blurb: |-
         I recently graduated from Harvard College, jointly in Computer Science and Statistics. My interest are modeling uncertainty in deep learning, computational cognitive neuroscience, as well as interpretability in ML. I spent a summer doing data science with the Siri Search team at Apple and another summer on ML research for Nuro, an autonomous vehicle startup. In my spare time, I like exploring the outdoors, catching plays or musicals, and checking out cool restaurants or bars. I was born and raised on the sunny shores of Singapore and have never quite adapted to Cambridge weather.
     - name: Nari Johnson
       title: Undergraduate Researcher
       image: /images/people/nari.jpg
+      hover: /images/people/nari.jpg
       site: https://scholar.harvard.edu/narijohnson/bio
       blurb: |-
          I am an undergraduate at the college pursuing a B.A. and M.S. in Computer Science!  I enjoy reading, podcasts, live music, and sampling plant-based milk alternative lattes.
@@ -97,22 +112,27 @@
     - name: Omer Gottesman
       title: PhD Graduate
       image: /images/people/omer.jpg
+      hover: /images/people/omer.jpg
       site: https://scholar.google.com/citations?user=glNJx5zYUbsC&hl=en
     - name: Joe Futoma
       site: https://jfutoma.github.io/
       title: Postdoctoral Fellow
       image: /images/people/joe_futoma.jpg
+      hover: /images/people/joe_futoma.jpg
     - name: Muhammad Arjumand Masood
       title: PhD Graduate
       image: /images/pony_green.png
+      hover: /images/pony_green.png
     - name: Michael C. Hughes
       title: Postdoctoral Fellow
       image: /images/people/mike_hughes.jpg
+      hover: /images/people/mike_hughes.jpg
       site: https://www.michaelchughes.com/
     - name: Taylor Killian
       site: https://twkillian.github.io
       title: ME Graduate
       image: /images/people/taylor_killian.jpg
+      hover: /images/people/taylor_killian.jpg
       blurb: |-
         After graduating from Harvard in 2017, Taylor returned to work for MIT
         Lincoln Laboratory and is currently pursuing a PhD from the University
@@ -122,4 +142,5 @@
     - name: Mahdi Pakdaman
       title: Postdoctoral Fellow
       image: /images/pony_cyan.png
+      hover: /images/pony_cyan.png
       site: https://scholar.google.com/citations?user=kVjUep8AAAAJ&hl=en
