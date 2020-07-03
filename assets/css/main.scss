@@ -84,10 +84,10 @@
 
   &:hover, &:focus {
     .person__image__headshot {
-      opacity: 0.5;
+      opacity: 0;
     }
     .person__image__hover {
-      opacity: 1;
+      opacity: 0.5;
     }
   }
 }
