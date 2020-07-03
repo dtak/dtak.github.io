@@ -3,7 +3,7 @@
     - name: Finale Doshi-Velez
       site: https://finale.seas.harvard.edu/
       image: /images/people/finale.jpg
-      hover: /images/people/finale.jpg
+      hover: /images/people/zebra_corn.png
       title: Principal Investigator
     - name: Sonali Parbhoo
       site: https://sites.google.com/view/sonali-parbhoo/home
@@ -33,7 +33,7 @@
     - name: Yaniv Yacoby
       title: PhD Student
       site: https://yanivyacoby.github.io/
-      hover: /images/fish_corn.png
+      hover: /images/tricera_corn.png
       image: /images/people/yaniv.png
       blurb: |-
         I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
@@ -50,7 +50,7 @@
     - name: Beau Coker
       title: PhD Student
       image: /images/pony_orange.png
-      hover: /images/pony_orange.png
+      hover: /images/fish_corn.png
     - name: Anna LI
       title: PhD Student
       image: /images/people/anna.jpg
