@@ -1,9 +1,9 @@
 - title: Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks
   authors: Thakur S, Lorsung C, Yacoby Y, Doshi-Velez F, Pan W
-  venue: Uncertainty
-  year: '2020'
-  links: 'proceedings at the International Conference on Machine Learning: Workshop
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
     on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
   - text: pdf
     url: https://arxiv.org/pdf/2006.11695.pdf
 - title: Power-Constrained Bandit
