@@ -25,25 +25,25 @@
       image: /images/pony_purple.png
     - name: Isaac Lage
       site: https://isaaclage.github.io/
-      title: PhD Student, 4th Year
+      title: PhD Candidate, 4th Year
       image: /images/people/ike.jpg
       hover: /images/cat_corn.png
       blurb: |-
         In my research, I work on improving human-machine decision making by optimizing machine learning models with human feedback. In my free time, I enjoy cooking, and playing board games with my partner and cat (the cat is a sore loser).
     - name: Andrew Ross
       site: https://asross.github.io/
-      title: PhD Student, 4th Year
+      title: PhD Candidate, 4th Year
       hover: /images/corn_corn.png
       image: /images/people/andrew_ross.jpg
     - name: Yaniv Yacoby
-      title: PhD Student, 4th Year
+      title: PhD Candidate, 4th Year
       site: https://yanivyacoby.github.io/
       hover: /images/tricera_corn.png
       image: /images/people/yaniv.png
       blurb: |-
         I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
     - name: Jiayu Yao
-      title: PhD Student, 4th Year
+      title: PhD Candidate, 4th Year
       site: https://scholar.google.com/citations?user=bqj1KxkAAAAJ&hl=en
       image: /images/pony_red.png
       hover: /images/pony_red.png
