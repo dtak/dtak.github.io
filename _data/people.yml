@@ -107,7 +107,7 @@
     - name: Wanqian Yang
       title: Undergraduate Student
       image: /images/people/wanqian.jpg
-      hover: /images/pony_purple.jpg
+      hover: /images/pony_purple.png
       site: https://wanqianyang.me/
       blurb: |-
         I recently graduated from Harvard College, jointly in Computer Science and Statistics. My interest are modeling uncertainty in deep learning, computational cognitive neuroscience, as well as interpretability in ML. I spent a summer doing data science with the Siri Search team at Apple and another summer on ML research for Nuro, an autonomous vehicle startup. In my spare time, I like exploring the outdoors, catching plays or musicals, and checking out cool restaurants or bars. I was born and raised on the sunny shores of Singapore and have never quite adapted to Cambridge weather.
@@ -116,13 +116,13 @@
     - name: Omer Gottesman
       title: PhD Graduate
       image: /images/people/omer.jpg
-      hover: /images/pony_blue.jpg
+      hover: /images/pony_blue.png
       site: https://scholar.google.com/citations?user=glNJx5zYUbsC&hl=en
     - name: Joe Futoma
       site: https://jfutoma.github.io/
       title: Postdoctoral Fellow
       image: /images/people/joe_futoma.jpg
-      hover: /images/pony_cyan.jpg
+      hover: /images/pony_cyan.png
     - name: Muhammad Arjumand Masood
       title: PhD Graduate
       image: /images/pony_green.png
