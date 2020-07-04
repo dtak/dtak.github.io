@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the website for Harvard's Data to Actionable Knowledge lab, led by [Finale Doshi-Velez](https://finale.seas.harvard.edu/).
-
+We are Harvard's Data to Actionable Knowledge (DtAK) lab, led by [Finale Doshi-Velez](https://finale.seas.harvard.edu/). 
 We use probabilistic methods to address many decision-making scenarios, with a focus on applications related to healthcare.  Our work falls into three major areas:
 
 1. **Probabilistic modeling and inference**: <br>
