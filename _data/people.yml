@@ -87,8 +87,11 @@
       hover: /images/pony_blue.png
     - name: Dimitris Vamvourellis
       title: Masters Student
-      image: /images/pony_yellow.png
+      site: https://dvamvourellis.github.io/
+      image: /images/people/dimitris.png
       hover: /images/pony_cyan.png
+      blurb: |-
+         I am currently pursuing a Masters in Data Science at Harvard’s Institute for Applied Computational Sciences. Before that, I earned a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
     - name: Jonathan Chu
       title: Undergraduate Student
       image: /images/pony_red.png
