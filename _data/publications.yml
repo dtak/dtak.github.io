@@ -74,7 +74,7 @@
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/identifying_distinct_effective_treatments_for_acute_hypotension_with_soda-rl.pdf
-- title: Interpretable Batch IRL to extract clinician goals in ICU HypotensionManagement
+- title: Interpretable Batch IRL to extract clinician goals in ICU Hypotension Management
   authors: Srinivasan S, Doshi-Velez F
   venue: AMIA CRI
   year: '2020'
