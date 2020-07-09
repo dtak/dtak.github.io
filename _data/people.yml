@@ -22,7 +22,9 @@
     - name: Melanie F. Pradier
       title: Postdoctoral Fellow
       hover: /images/mouse_corn.png
-      image: /images/pony_purple.png
+      image: /images/people/melanie.jpg
+      blurb: |-
+        I work on probabilistic models, interpretable machine learning, and healthcare applications. I am interested in personalizing mental healthcare and advances in Bayesian neural networks. I want my research to have an impact in the world, for which I collaborate regularly with psychiatrists at Massachusetts General Hospital, and experts in Human-Computer-Interaction. How can we better quantify uncertaint? How can we design expressive, interpretable priors in Bayesian models? How can we combine human knowledge with data-driven evidence? I love Japanese culture, sports of any kind, and playing with my dwarf rabbit Taiko.
     - name: Isaac Lage
       site: https://isaaclage.github.io/
       title: PhD Candidate, 4th Year
