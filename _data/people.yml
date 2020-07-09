@@ -35,6 +35,8 @@
       title: PhD Candidate, 4th Year
       hover: /images/corn_corn.png
       image: /images/people/andrew_ross.jpg
+      blurb: |-
+        My research focuses on optimizing classifiers, regressors, and autoencoders to be more interpretable, robust, and consistent with expert knowledge. In my free time, I enjoy cooking, singing, and making extremely _corny_ jokes!
     - name: Yaniv Yacoby
       title: PhD Candidate, 4th Year
       site: https://yanivyacoby.github.io/
