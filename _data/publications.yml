@@ -32,7 +32,7 @@
 - title: Characterizing and Avoiding Problematic Global Optima of Variational Autoencoders
   authors: Yacoby Y, Pan W, Doshi-Velez F
   venue: Advances in Approximate Bayesian Inference
-  year: '2020'
+  year: '2019'
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/characterizing_and_avoiding_problematic_global_optima_of_variational_autoencoders.pdf
