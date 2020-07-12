@@ -1,3 +1,19 @@
+- title: Failures of Variational Autoencoders and their Effects on Downstream Tasks
+  authors: Yacoby Y, Doshi-Velez F, Pan W
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
+    on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-056.pdf
+- title: BaCOUn: Bayesian Classifers with Out-of-Distribution Uncertainty
+  authors: Guenais T, Vamvourellis D, Yacoby Y, Doshi-Velez F, Pan W
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
+    on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-085.pdf
 - title: Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks
   authors: Thakur S, Lorsung C, Yacoby Y, Doshi-Velez F, Pan W
   venue: 'proceedings at the International Conference on Machine Learning: Workshop
