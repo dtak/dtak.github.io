@@ -19,7 +19,7 @@
   authors: Yacoby Y, Pan W, Doshi-Velez F
   venue: Advances in Approximate Bayesian Inference
   year: '2020'
-  tags: Probabilistic modeling and inference
+  tags: Probabilistic modeling and inference, Downstream desiderata
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/characterizing_and_avoiding_problematic_global_optima_of_variational_autoencoders.pdf
@@ -28,7 +28,7 @@
   authors: Prasad N, Engelhardt B, Doshi-Velez F
   venue: ACM Conference on Health, Inference and Learning
   year: '2020'
-  tags: Decision-making under uncertainty
+  tags: Decision-making under uncertainty, Off-policy RL
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/defining_admissible_rewards_for_high-confidence_policy_evaluation_in_batch_reinforcement_learning.pdf
@@ -44,18 +44,10 @@
   authors: Futoma J, Hughes M, Doshi-Velez F
   venue: AISTATS
   year: '2020'
-  tags: Decision-making under uncertainty
+  tags: Decision-making under uncertainty, Off-policy RL
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/popcorn_partially_observed_prediction_constrained_reinforcement_learning.pdf
-- title: Regional Tree Regularization for Interpretability in Deep Neural Networks
-  authors: Wu M, Parbhoo S, Hughes M, Kindle R, Celi L, Zazzi M, Volker R, Doshi-Velez F
-  venue: AAAI
-  year: '2020'
-  tags: Interpretability and validation
-  links:
-  - text: pdf
-    url: https://finale.seas.harvard.edu/files/finale/files/regional_tree_regularization_for_interpretability_in_deep_neural_networks.pdf
 - title: Regional Tree Regularization for Interpretability in Deep Neural Networks
   authors: Wu M, Parbhoo S, Hughes M, Kindle R, Celi L, Zazzi M, Volker R, Doshi-Velez
     F
@@ -79,7 +71,7 @@
   authors: Futoma F, Masgood M, Doshi-Velez F
   venue: AMIA CRI
   year: '2020'
-  tags: Decision-making under uncertainty
+  tags: Decision-making under uncertainty, Off-policy RL
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/identifying_distinct_effective_treatments_for_acute_hypotension_with_soda-rl.pdf
@@ -87,7 +79,7 @@
   authors: Srinivasan S, Doshi-Velez F
   venue: AMIA CRI
   year: '2020'
-  tags: Interpretability and validation, Decision-making under uncertainty
+  tags: Interpretability and validation, Decision-making under uncertainty, Off-policy RL
   links:
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/interpretable_batch_irl_to_extract_clinician_goals_in_icu_hypotension.pdf
