@@ -10,17 +10,97 @@ permalink: /publications/
 
 {% include base_path %}
 
-{% for p in site.data.publications %}
-  <div class='publication'>
-    <strong>{{ p.title }}</strong>
-    <div class='publication--authors'> {{ p.authors }} </div>
-    <div class='publication--venue-and-links'>
-      <em>{{ p.venue }}</em>, {{ p.year }}
-      {% if p.links %}
-        {% for link in p.links %}
-          <a href='{{link.url}}' target='_blank'>[{{link.text}}]</a>
-        {% endfor %}
-      {% endif %}
+<div id='filters'>
+  <label>Show publications related to:
+    <select id='tag-select'>
+      <option value=''>All topics</option>
+    </select>
+  </label>
+</div>
+
+<div class='publications' id='publications'>
+  {% for p in site.data.publications %}
+    <div class='publication' data-tags='{{ p.tags }}'>
+      <strong>{{ p.title }}</strong>
+      <div class='publication--authors'> {{ p.authors }} </div>
+      <div class='publication--venue-and-links'>
+        <em>{{ p.venue }}</em>, {{ p.year }}
+        {% if p.links %}
+          {% for link in p.links %}
+            <a href='{{link.url}}' target='_blank'>[{{link.text}}]</a>
+          {% endfor %}
+        {% endif %}
+      </div>
     </div>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
+
+<script>
+if (typeof(String.prototype.trim) === "undefined") {
+  String.prototype.trim = function() {
+    return String(this).replace(/^\s+|\s+$/g, '');
+  };
+}
+
+const seen = new Set();
+const tagSelect = document.getElementById('tag-select');
+const pubList = document.getElementById('publications');
+
+const tagsToEls = {};
+
+for (let pub of document.getElementsByClassName('publication')) {
+  for (let tag of pub.dataset.tags.split(',')) {
+    if (!tag.trim().length) { continue; }
+    const normalizedTag = tag.trim().toLowerCase();
+    if (!seen.has(normalizedTag)) {
+      seen.add(normalizedTag);
+      tagsToEls[normalizedTag] = [pub];
+      const option = document.createElement("option");
+      option.setAttribute("value", normalizedTag);
+      option.appendChild(document.createTextNode(tag.trim()));
+      tagSelect.appendChild(option);
+    } else {
+      tagsToEls[normalizedTag].push(pub);
+    }
+  }
+}
+
+function filterPublications() {
+  $('.publication').removeClass('visible');
+  if (tagSelect.value) {
+    setQueryParam('tag', tagSelect.value);
+    $(pubList).addClass('filtering');
+    for (let el of tagsToEls[tagSelect.value]) {
+      $(el).addClass('visible');
+    }
+  } else {
+    setQueryParam('tag', '');
+    $(pubList).removeClass('filtering');
+  }
+}
+
+function setQueryParam(name, value) {
+  const params = new URLSearchParams(window.location.search);
+  params.set(name, value);
+  window.history.replaceState({}, "", decodeURIComponent(`${window.location.pathname}?${params}`));
+}
+
+tagSelect.addEventListener('change', filterPublications);
+
+const params = new URLSearchParams(window.location.search);
+const initTag = params.get('tag');
+if (initTag && seen.has(initTag)) {
+  tagSelect.value = initTag;
+  filterPublications();
+}
+</script>
+
+<style>
+  .filtering .publication {
+    display: none;
+  }
+  .filtering .publication.visible {
+    display: block;
+  }
+</style>
+
