@@ -5,6 +5,8 @@
       image: /images/people/finale.jpg
       hover: /images/zebra_corn.png
       title: Principal Investigator
+      blurb: |- 
+        Finale has been an afficianado of all things unicorn since 2005 and currently heads a team of mischieve-makers and chaos stokers at DtAK.
     - name: Sonali Parbhoo
       site: https://sites.google.com/view/sonali-parbhoo/home
       title: Postdoctoral Fellow
@@ -133,8 +135,11 @@
       hover: /images/llama_corn.png
     - name: Muhammad Arjumand Masood
       title: PhD Graduate
-      image: /images/pony_green.png
+      image: /images/people/arjumand.jpeg
       hover: /images/pony_yellow.png
+      blurb: |-
+        During my PhD, I worked primarily on understanding the presence of meaningfully diverse optima in the solution space of machine learning problems and designed algorithms to discover a representative solution set of that diversity. The specific algorithms I worked on involved Bayesian Non-negative Matrix Factorization and policy-gradient methods in Reinforcement Learning. Healthcare applications included understanding comorbidities in Autism and learning treatment strategies for Sepsis (in the ICU). I’m currently working in the data-science consulting space where I engage with a broader class of modeling techniques. My goal is to understand business problems, identify and apply appropriate algorithms to solve them, and convert modeling solutions to actionable business decisions.
+
     - name: Michael C. Hughes
       title: Postdoctoral Fellow
       image: /images/people/mike_hughes.jpg
