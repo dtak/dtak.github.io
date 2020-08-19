@@ -74,8 +74,9 @@
       hover: /images/pony_green.png
     - name: Eura Shin
       title: PhD Student, 1st Year
-      image: /images/pony_blue.png
-      hover: /images/pony_yellow.png       
+      image: /images/eura.jpg
+      hover: /images/pony_yellow.png
+      site: https://eurashin.github.io/
     - name: Michael Downs
       title: Masters Student
       image: /images/pony_orange.png
