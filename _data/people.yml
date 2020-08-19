@@ -74,7 +74,7 @@
       hover: /images/pony_green.png
     - name: Eura Shin
       title: PhD Student, 1st Year
-      image: /images/eura.jpg
+      image: /images/people/eura.jpg
       hover: /images/pony_yellow.png
       site: https://eurashin.github.io/
     - name: Michael Downs
