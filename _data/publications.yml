@@ -1,5 +1,5 @@
-- title: Failures of Variational Autoencoders and their Effects on Downstream Tasks
-  authors: Yacoby Y, Pan W, Doshi-Velez F
+- title: 'Failures of Variational Autoencoders and their Effects on Downstream Tasks'
+  authors: 'Yacoby Y, Pan W, Doshi-Velez F'
   venue: 'proceedings at the International Conference on Machine Learning: Workshop
     on Uncertainty & Robustness in Deep Learning (ICML)'
   year: '2020'
