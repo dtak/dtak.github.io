@@ -15,7 +15,7 @@
   - text: pdf
     url: https://arxiv.org/abs/2106.07052
 
-- title: Generalization in Clinical Prediction Models: The Blessing and Curse of Measurement Indicator Variables
+- title: 'Generalization in Clinical Prediction Models: The Blessing and Curse of Measurement Indicator Variables'
   authors: J Futoma, M Simons, F Doshi-Velez, R Kamaleswaran
   venue: 'Critical Care Explorations'
   year: '2021'
@@ -31,7 +31,7 @@
   - text: pdf
     url: https://journals.lww.com/ccejournal/Fulltext/2021/07000/Generalization_in_Clinical_Prediction_Models__The.3.aspx?context=LatestArticles
     
-- title: Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning
+- title: 'Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning'
   authors: K Wang, S Shat, H Chen, A Perrault, F Doshi-Velez, M Tambe
   venue: 'Preprint'
   year: '2021'
@@ -39,15 +39,7 @@
   - text: pdf
     url: https://arxiv.org/abs/2106.03279
     
- - title: Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens
-  authors: M Jacobs, J He, M F. Pradier, B Lam, A C Ahn, T H McCoy, R H Perlis, F Doshi-Velez, K Z Gajos
-  venue: 'proceedings at the 2021 CHI Conference on Human Factors in Computing Systems'
-  year: '2021'
-  links:
-  - text: pdf
-    url: https://dl.acm.org/doi/abs/10.1145/3411764.3445385
-    
- - title: Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens
+ - title: 'Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens'
   authors: M Jacobs, J He, M F. Pradier, B Lam, A C Ahn, T H McCoy, R H Perlis, F Doshi-Velez, K Z Gajos
   venue: 'proceedings at the 2021 CHI Conference on Human Factors in Computing Systems'
   year: '2021'
@@ -96,7 +88,7 @@
   - text: pdf
     url: https://arxiv.org/abs/2102.05185
   
- - title: How machine-learning recommendations influence clinician treatment selections: the example of antidepressant selection
+ - title: 'How machine-learning recommendations influence clinician treatment selections: the example of antidepressant selection'
   authors: M Jacobs, MF Pradier, TH McCoy, RH Perlis, F Doshi-Velez, KZ Gajos
   venue: 'Translational psychiatry'
   year: '2021'
