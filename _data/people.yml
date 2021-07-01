@@ -44,8 +44,9 @@
       title: PhD Student, 4th Year
       image: /images/pony_orange.png
       hover: /images/fish_corn.png
-    - name: Anna Li
+    - name: Anna Trella
       title: PhD Student, 2nd Year
+      site: https://annajli.github.io/
       image: /images/people/anna.jpg
       hover: /images/pony_blue.png
       blurb: |-
