@@ -21,59 +21,45 @@
       image: /images/people/weiwei.png
       blurb: |-
         I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
-    - name: Melanie F. Pradier
-      title: Postdoctoral Fellow
-      hover: /images/mouse_corn.png
-      image: /images/people/melanie.jpg
-      site: https://melaniefp.github.io
-      blurb: |-
-        I work on probabilistic models, interpretable machine learning, and healthcare applications. I am interested in personalizing mental healthcare and advances in Bayesian neural networks. I want my research to have an impact in the world, for which I collaborate regularly with psychiatrists at Massachusetts General Hospital, and experts in Human-Computer-Interaction. How can we better quantify uncertaint? How can we design expressive, interpretable priors in Bayesian models? How can we combine human knowledge with data-driven evidence? I love Japanese culture, sports of any kind, and playing with my dwarf rabbit Taiko.
     - name: Isaac Lage
       site: https://isaaclage.github.io/
-      title: PhD Candidate, 4th Year
+      title: PhD Candidate, 5th Year
       image: /images/people/ike.jpg
       hover: /images/cat_corn.png
       blurb: |-
         In my research, I work on improving human-machine decision making by optimizing machine learning models with human feedback. In my free time, I enjoy cooking, and playing board games with my partner and cat (the cat is a sore loser).
-    - name: Andrew Ross
-      site: https://asross.github.io/
-      title: PhD Candidate, 4th Year
-      hover: /images/corn_corn.png
-      image: /images/people/andrew_ross.jpg
-      blurb: |-
-        My research focuses on optimizing classifiers, regressors, and autoencoders to be more interpretable, robust, and consistent with expert knowledge. In my free time, I enjoy cooking, singing, and making extremely _corny_ jokes!
     - name: Yaniv Yacoby
-      title: PhD Candidate, 4th Year
+      title: PhD Candidate, 5th Year
       site: https://yanivyacoby.github.io/
       hover: /images/tricera_corn.png
       image: /images/people/yaniv.png
       blurb: |-
         I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
     - name: Jiayu Yao
-      title: PhD Candidate, 4th Year
+      title: PhD Candidate, 5th Year
       site: https://scholar.google.com/citations?user=bqj1KxkAAAAJ&hl=en
       image: /images/pony_red.png
       hover: /images/pony_purple.png
     - name: Beau Coker
-      title: PhD Student, 3rd Year
+      title: PhD Student, 4th Year
       image: /images/pony_orange.png
       hover: /images/fish_corn.png
     - name: Anna Li
-      title: PhD Student, 1st Year
+      title: PhD Student, 2nd Year
       image: /images/people/anna.jpg
       hover: /images/pony_blue.png
       blurb: |-
         I did my undergrad at UC Berkeley in Applied Math and a minor in American History. In industry, I worked for 2 years as a Software Development Engineer at Amazon. I was the technical lead for mobile app development in the acquisition of Whole Foods Market onto Amazon.com and the launch of Amazon Fresh 2 hour delivery as a core Prime benefit. I enjoy dancing, playing the piano, preforming a one person show of Hamilton the Musical to myself, and playing Nintendo games!
     - name: Sarah Rathnam
-      title: PhD Student, 1st Year
+      title: PhD Student, 2nd Year
       image: /images/pony_green.png
       hover: /images/pony_cyan.png
     - name: Abhishek Sharma
-      title: PhD Student, 1st Year
+      title: PhD Student, 2nd Year
       image: /images/pony_yellow.png
       hover: /images/pony_green.png
     - name: Eura Shin
-      title: PhD Student, 1st Year
+      title: PhD Student, 2nd Year
       image: /images/people/eura.jpg
       hover: /images/pony_yellow.png
       site: https://eurashin.github.io/
@@ -81,49 +67,35 @@
       title: Masters Student
       image: /images/pony_orange.png
       hover: /images/pony_red.png
-    - name: Theo Guenais
+    - name: Anita Mahinpei
       title: Masters Student
       image: /images/pony_green.png
       hover: /images/pony_orange.png
-    - name: Cooper Lorsung
+    - name: Justin Clark
       title: Masters Student
       image: /images/pony_blue.png
       hover: /images/pony_purple.png
-    - name: Sujay Thakur
-      title: Masters Student
-      image: /images/pony_cyan.png
-      hover: /images/pony_blue.png
-    - name: Dimitris Vamvourellis
-      title: Masters Student
-      site: https://dvamvourellis.github.io/
-      image: /images/people/dimitris.png
-      hover: /images/pony_cyan.png
-      blurb: |-
-         I am currently pursuing a Masters in Data Science at Harvard’s Institute for Applied Computational Sciences. Before that, I earned a BS in Computer Science and Mathematics at the University of Edinburgh. I am an aspiring data scientist, passionate about solving real-world problems with machine learning and statistics.
     - name: Jonathan Chu
       title: Undergraduate Student
       image: /images/pony_red.png
       hover: /images/pony_yellow.png
-    - name: Nari Johnson
-      title: Undergraduate Student
-      image: /images/people/nari.jpg
-      hover: /images/pony_orange.png
-      site: https://scholar.harvard.edu/narijohnson/bio
-      blurb: |-
-         I am an undergraduate at the college pursuing a B.A. and M.S. in Computer Science!  I enjoy reading, podcasts, live music, and sampling plant-based milk alternative lattes.
-    - name: Yash Nair
-      title: Undergraduate Student
-      image: /images/pony_yellow.png
-      hover: /images/pony_red.png
-    - name: Wanqian Yang
-      title: Undergraduate Student
-      image: /images/people/wanqian.jpg
-      hover: /images/pony_purple.png
-      site: https://wanqianyang.me/
-      blurb: |-
-        I recently graduated from Harvard College, jointly in Computer Science and Statistics. My interest are modeling uncertainty in deep learning, computational cognitive neuroscience, as well as interpretability in ML. I spent a summer doing data science with the Siri Search team at Apple and another summer on ML research for Nuro, an autonomous vehicle startup. In my spare time, I like exploring the outdoors, catching plays or musicals, and checking out cool restaurants or bars. I was born and raised on the sunny shores of Singapore and have never quite adapted to Cambridge weather.
+    
 - section: "Former Members"
   members:
+    - name: Andrew Ross
+      site: https://asross.github.io/
+      title: PhD Candidate, 4th Year
+      hover: /images/corn_corn.png
+      image: /images/people/andrew_ross.jpg
+      blurb: |-
+        My research focuses on optimizing classifiers, regressors, and autoencoders to be more interpretable, robust, and consistent with expert knowledge. In my free time, I enjoy cooking, singing, and making extremely _corny_ jokes!
+    - name: Melanie F. Pradier
+      title: Postdoctoral Fellow
+      hover: /images/mouse_corn.png
+      image: /images/people/melanie.jpg
+      site: https://melaniefp.github.io
+      blurb: |-
+        I work on probabilistic models, interpretable machine learning, and healthcare applications. I am interested in personalizing mental healthcare and advances in Bayesian neural networks. I want my research to have an impact in the world, for which I collaborate regularly with psychiatrists at Massachusetts General Hospital, and experts in Human-Computer-Interaction. How can we better quantify uncertaint? How can we design expressive, interpretable priors in Bayesian models? How can we combine human knowledge with data-driven evidence? I love Japanese culture, sports of any kind, and playing with my dwarf rabbit Taiko.
     - name: Omer Gottesman
       title: PhD Graduate
       image: /images/people/omer.jpg
