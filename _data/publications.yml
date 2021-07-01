@@ -8,10 +8,10 @@
     url: https://arxiv.org/pdf/2007.07124.pdf
 
 - title: 'Promises and Pitfalls of Black-Box Concept Learning Models'
-authors: 'A Mahinpei, J Clark, I Lage, F Doshi-Velez, W Pan'
-venue: 'proceedings at the Internation Conference on Machine Learning: Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI'
-year: '2021'
-links:
-- text: pdf
-url: https://arxiv.org/abs/2106.13314
+  authors: 'A Mahinpei, J Clark, I Lage, F Doshi-Velez, W Pan'
+  venue: 'proceedings at the Internation Conference on Machine Learning: Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2106.13314
 
