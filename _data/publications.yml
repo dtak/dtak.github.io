@@ -167,7 +167,7 @@
    - text: pdf
      url: https://www.sciencedirect.com/science/article/pii/S2589750020301862
      
-- title: PoRB-Nets: Poisson Process Radial Basis Function Networks
+- title: 'PoRB-Nets: Poisson Process Radial Basis Function Networks'
   authors: B Coker, MF Pradier, F Doshi-Velez
   venue: 'proceedings at the Conference on Uncertainty in Artificial Intelligence'
   year: 2020
