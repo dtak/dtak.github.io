@@ -70,11 +70,11 @@
       hover: /images/pony_red.png
     - name: Anita Mahinpei
       title: Masters Student
-      image: /images/anita.png
+      image: /images/anita.jpg
       hover: /images/pony_orange.png
     - name: Justin Clark
       title: Masters Student
-      image: /images/justin.png
+      image: /images/justin.jpg
       hover: /images/pony_purple.png
     - name: Jonathan Chu
       title: Undergraduate Student
