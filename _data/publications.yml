@@ -200,6 +200,15 @@
   - text: pdf
     url: https://arxiv.org/pdf/2007.06096.pdf
     
+- title: 'Amortised Variational Inference for Hierarchical Mixture Models'
+  authors: J Antorán, J Yao, W Pan, F Doshi-Velez, JM Hernández-Lobato
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
+    on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-139.pdf
+    
 - title: Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks
   authors: Thakur S, Lorsung C, Yacoby Y, Doshi-Velez F, Pan W
   venue: 'proceedings at the International Conference on Machine Learning: Workshop
