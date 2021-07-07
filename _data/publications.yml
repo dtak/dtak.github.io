@@ -123,13 +123,15 @@
   authors: 'E Bertino, F Doshi-Velez, M Gini, D Lopresti, D Parkes'
   venue: 'Preprint'
   year: 2020
-   - text: pdf
-     url: https://arxiv.org/abs/2012.06034
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2012.06034
      
 - title: Learning Interpretable Concept-Based Models with Human Feedback
   authors: I Lage, F Doshi-Velez
   venue: 'proceedings at the International Conference on Machine Learning: Workshop on Human Interpretability in Machine Learning'
   year: 2020
+  links:
    - text: pdf
      url: https://arxiv.org/abs/2012.02898
      
@@ -137,6 +139,7 @@
   authors: O Gottesman, J Futoma, Y Liu, S Parbhoo, L Celi, E Brunskill, F Doshi-Velez
   venue: 'proceedings at the International Conference on Machine Learning'
   year: 2020
+  links:
    - text: pdf
      url: http://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf
      
@@ -144,6 +147,7 @@
   authors: W Yang, L Lorch, MA Graule, H Lakkaraju, F Doshi-Velez
   venue: 'proceedings at the Conference on Neural Information Processing Systems'
   year: 2020
+  links:
    - text: pdf
      url: https://arxiv.org/abs/2010.10969
      
@@ -151,6 +155,7 @@
   authors: S Parbhoo, M Wieser, V Roth, F Doshi-Velez
   venue: 'proceedings at the Machine Learning for Health Care Conference'
   year: 2020
+  links:
    - text: pdf
      url: http://proceedings.mlr.press/v126/parbhoo20a.html
      
@@ -158,6 +163,7 @@
   authors: J Futoma, M Simons, T Panch, F Doshi-Velez, LA Celi
   venue: 'The Lancet Digital Health'
   year: 2020
+  links:
    - text: pdf
      url: https://www.sciencedirect.com/science/article/pii/S2589750020301862
      
@@ -165,6 +171,7 @@
   authors: B Coker, MF Pradier, F Doshi-Velez
   venue: 'proceedings at the Conference on Uncertainty in Artificial Intelligence'
   year: 2020
+  links:
    - text: pdf
      url: http://proceedings.mlr.press/v124/coker20a.html
 
