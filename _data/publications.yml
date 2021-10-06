@@ -5,9 +5,14 @@
   links:
     - text: pdf
       url: https://arxiv.org/pdf/2109.11043.pdf
+      
+- title: 'On formalizing causal off-policy evaluation for sequential decision-making'
+  authors: 'S Parbhoo *, S Joshi *'
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Neglected Assumptions in Causal Inference'
+  year: '2021'
    
 - title: 'Pre-emptive Learning to Defer for Sequential Medical Decision-Making Under Uncertainty'
-  authors: 'S Joshi *, S Parbhoo *, F Doshi-Velez (* equal contribution)'
+  authors: 'S Joshi *, S Parbhoo *, F Doshi-Velez'
   venue: 'proceedings at the International Conference on Machine Learning: Workshop on Interpretable Machine Learning for Healthcare'
   year: '2021'
   links: 
