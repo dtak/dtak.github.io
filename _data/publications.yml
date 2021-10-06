@@ -18,14 +18,6 @@
   links: 
     - text: pdf
       url: https://arxiv.org/pdf/2109.06312.pdf
-    
-- title: 'Preferential Mixture-of-Experts: Interpretable Models that Rely on Human Expertise as much as Possible'
-  authors: 'M Pradier *, J Zazo *, S Parbhoo *, F Doshi-Velez (* equal contribution)'
-  venue: 'In Proceedings of AMIA Clinical Research Informatics Summit'
-  year: '2021'
-  links:
-    - text: pdf
-      url: https://arxiv.org/pdf/2101.05360.pdf
       
 - title: 'Optimizing for Interpretability in Deep Neural Networks with Tree Regularization'
   authors: 'M Wu, S Parbhoo, M Hughes, V Roth, F Doshi-Velez'
@@ -134,20 +126,12 @@
 
 - title: 'Preferential Mixture-of-Experts: Interpretable Models that Rely on Human Expertise As Much As Possible'
   authors: 'MF Pradier, J Zazo, S Parbhoo, RH Perlis, M Zazzi, F Doshi-Velez'
-  venue: 'Preprint'
+  venue: 'Proceedings of Clinical Research Informatics AMIA Summit'
   year: '2021'
   links:
   - text: pdf
     url: https://arxiv.org/abs/2101.05360
-
-- title: Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment
-  authors: 'K Zhang, Y Wang, J Du, B Chu, LA Celi, R Kindle, F Doshi-Velez'
-  venue: 'proceedings at the Neural Information Processing Systems Workshop on Machine Learning for Health'
-  year: '2021'
-  links:
-  - text: pdf
-    url: https://arxiv.org/abs/2101.03309
-
+    
 - title: Predicting change in diagnosis from major depression to bipolar disorder after antidepressant initiation
   authors: 'M F Pradier, M C Hughes, T H McCoy, S A Barroilhet, F Doshi-Velez, R H Perlis'
   venue: 'Neuropsychopharmacology'
@@ -155,6 +139,19 @@
   links:
   - text: pdf
     url: https://www.nature.com/articles/s41386-020-00838-x
+
+- title: Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment
+  authors: 'K Zhang, Y Wang, J Du, B Chu, LA Celi, R Kindle, F Doshi-Velez'
+  venue: 'proceedings at the Neural Information Processing Systems Workshop on Machine Learning for Health'
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2101.03309
+
+- title: 'Shaping Control Variates for Off-Policy Evaluation'
+  authors: 'S Parbhoo, O Gottesman, F Doshi-Velez'
+  venue: 'proceedings at Neural Information Processing Systems Workshop on Offline Reinforcement Learning'
+  year: '2020'
     
 - title: 'Artificial Intelligence & Cooperation'
   authors: 'E Bertino, F Doshi-Velez, M Gini, D Lopresti, D Parkes'
