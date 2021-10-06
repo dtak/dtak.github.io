@@ -301,15 +301,6 @@
   - text: pdf
     url: https://finale.seas.harvard.edu/files/finale/files/regional_tree_regularization_for_interpretability_in_deep_neural_networks.pdf
     
-- title: Regional Tree Regularization for Interpretability in Deep Neural Networks
-  authors: Wu M, Parbhoo S, Hughes M, Kindle R, Celi L, Zazzi M, Volker R, Doshi-Velez
-    F
-  venue: AAAI
-  year: '2020'
-  links:
-  - text: pdf
-    url: https://finale.seas.harvard.edu/files/finale/files/regional_tree_regularization_for_interpretability_in_deep_neural_networks.pdf
-    
 - title: Ensembles of Locally Independent Prediction Models
   authors: Ross A, Pan W, Celi L, Doshi-Velez F
   venue: AAAI
