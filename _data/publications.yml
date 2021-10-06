@@ -4,7 +4,7 @@
   year: '2021'
   links:
     - text: pdf
-    - url: https://arxiv.org/pdf/2109.11043.pdf
+      url: https://arxiv.org/pdf/2109.11043.pdf
    
 - title: 'Pre-emptive Learning to Defer for Sequential Medical Decision-Making Under Uncertainty'
   authors: 'S Joshi, S Parbhoo, F Doshi-Velez'
@@ -12,7 +12,7 @@
   year: '2021'
   links: 
     - text: pdf
-    - url: https://arxiv.org/pdf/2109.06312.pdf
+      url: https://arxiv.org/pdf/2109.06312.pdf
     
 - title: 'Preferential Mixture-of-Experts: Interpretable Models that Rely on Human Expertise as much as Possible'
   authors: 'M Pradier, J Zazo, S Parbhoo, F Doshi-Velez'
@@ -20,7 +20,7 @@
   year: '2021'
   links:
     - text: pdf
-    - url: https://arxiv.org/pdf/2101.05360.pdf
+      url: https://arxiv.org/pdf/2101.05360.pdf
     
 - title: 'Promises and Pitfalls of Black-Box Concept Learning Models'
   authors: 'A Mahinpei, J Clark, I Lage, F Doshi-Velez, W Pan'
