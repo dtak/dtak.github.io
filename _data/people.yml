@@ -47,7 +47,8 @@
       hover: /images/pony_purple.png
     - name: Beau Coker
       title: PhD Student, 4th Year
-      image: /images/pony_orange.png
+      site: https://beaucoker.github.io 
+      image: /images/people/beau.jpg
       hover: /images/fish_corn.png
     - name: Anna Trella
       title: PhD Student, 2nd Year
