@@ -21,6 +21,11 @@
       image: /images/people/weiwei.png
       blurb: |-
         I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
+    - name: Marton Havasi
+      title: Postdoctoral Fellow
+      site: https://mhavasi.github.io
+      hover: /images/pen_corn.png
+      image: /images/people/marton.png       
     - name: Isaac Lage
       site: https://isaaclage.github.io/
       title: PhD Candidate, 5th Year
@@ -48,7 +53,7 @@
       title: PhD Student, 2nd Year
       site: https://annajli.github.io/
       image: /images/people/anna.jpg
-      hover: /images/pony_blue.png
+      hover: /images/pika_corn.png
       blurb: |-
         I did my undergrad at UC Berkeley in Applied Math and a minor in American History. In industry, I worked for 2 years as a Software Development Engineer at Amazon. I was the technical lead for mobile app development in the acquisition of Whole Foods Market onto Amazon.com and the launch of Amazon Fresh 2 hour delivery as a core Prime benefit. I enjoy dancing, playing the piano, preforming a one person show of Hamilton the Musical to myself, and playing Nintendo games!
     - name: Sarah Rathnam
@@ -62,12 +67,8 @@
     - name: Eura Shin
       title: PhD Student, 2nd Year
       image: /images/people/eura.jpg
-      hover: /images/pony_yellow.png
+      hover: /images/a_corn.png
       site: https://eurashin.github.io/
-    - name: Michael Downs
-      title: Masters Student
-      image: /images/pony_orange.png
-      hover: /images/pony_red.png
     - name: Anita Mahinpei
       title: Masters Student
       image: /images/people/anita.jpg
@@ -76,10 +77,6 @@
       title: Masters Student
       image: /images/people/justin.png
       hover: /images/pony_purple.png
-    - name: Jonathan Chu
-      title: Undergraduate Student
-      image: /images/pony_red.png
-      hover: /images/pony_yellow.png
     
 - section: "Former Members"
   members:
