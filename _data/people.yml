@@ -64,8 +64,8 @@
       hover: /images/pony_cyan.png
     - name: Abhishek Sharma
       title: PhD Student, 2nd Year
-      image: /images/pony_yellow.png
-      hover: /images/pony_green.png
+      image: /images/people/abhishek.jpg
+      hover: /images/squirel_corn.png
     - name: Eura Shin
       title: PhD Student, 2nd Year
       image: /images/people/eura.jpg
