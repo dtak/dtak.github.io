@@ -42,6 +42,14 @@
   links:
   - text: pdf
     url: https://arxiv.org/abs/2106.07052
+    
+- title: 'Prediction-focused Mixture Models'
+  authors: 'S Narayanan *, A Sharma *, C Zeng, F Doshi-Velez'
+  venue: 'proceedings at the International Conference on Machine Learning: Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ICML)'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2110.13221v1
 
 - title: 'Generalization in Clinical Prediction Models: The Blessing and Curse of Measurement Indicator Variables'
   authors: 'J Futoma, M Simons, F Doshi-Velez, R Kamaleswaran'
