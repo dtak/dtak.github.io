@@ -66,6 +66,9 @@
       title: PhD Student, 2nd Year
       image: /images/people/abhishek.jpg
       hover: /images/squirel_corn.png
+      blurb: |-
+      My research interest lie in probabilistic machine learning and decision-focused modeling, and my methods are strongly motivated by applications in healthcare.
+      site: https://abhishekshar.com/
     - name: Eura Shin
       title: PhD Student, 2nd Year
       image: /images/people/eura.jpg
