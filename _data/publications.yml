@@ -1,3 +1,11 @@
+ - title: 'Generalizing Off-Policy Evaluation From a Causal Perspective For Sequential Decision-Making'
+  authors: 'S Parbhoo, S Joshi, F Doshi-Velez'
+  venue: 'Preprint'
+  year: '2022'
+  links:
+   - text: pdf
+     url: https://arxiv.org/pdf/2201.08262.pdf
+   
 - title: 'Learning Predictive and Interpretable Timeseries Summaries from ICU Data'
   authors: 'N Johnson, S Parbhoo, A Ross, F Doshi-Velez'
   venue: 'In Proceedings of AMIA Annual Symposium'
