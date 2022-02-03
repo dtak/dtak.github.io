@@ -18,7 +18,7 @@
       title: Research Associate
       site: https://onefishy.github.io
       hover: /images/dodo_corn.png
-      image: /images/people/weiwei.png
+      image: /images/people/weiwei.jpg
       blurb: |-
         I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
     - name: Marton Havasi
