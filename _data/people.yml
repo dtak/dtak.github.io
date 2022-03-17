@@ -7,13 +7,6 @@
       title: Principal Investigator
       blurb: |- 
         Finale has been an afficianado of all things unicorn since 2005 and currently heads a team of mischieve-makers and chaos stokers at DtAK.
-    - name: Sonali Parbhoo
-      site: https://sites.google.com/view/sonali-parbhoo/home
-      title: Postdoctoral Fellow
-      hover: /images/turtle_corn.png
-      image: /images/people/sonali.jpg
-      blurb: |-
-        My research focuses on reasoning in uncertainty, causal inference, and learning interpretable models for medical decision-making and problems in healthcare. I completed my PhD in 2019 at the University of Basel in Switzerland, where I was advised by Prof. Volker Roth.  Prior to this, I received my MSc at the University of the Witwatersrand, South Africa. Apart from research, I enjoy travelling, learning about other cultures, playing badminton and cooking.
     - name: Weiwei Pan
       title: Research Associate
       site: https://onefishy.github.io
@@ -85,6 +78,13 @@
     
 - section: "Former Members"
   members:
+    - name: Sonali Parbhoo
+      site: https://sites.google.com/view/sonali-parbhoo/home
+      title: Postdoctoral Fellow
+      hover: /images/turtle_corn.png
+      image: /images/people/sonali.jpg
+      blurb: |-
+        My research focuses on reasoning in uncertainty, causal inference, and learning interpretable models for medical decision-making and problems in healthcare. I completed my PhD in 2019 at the University of Basel in Switzerland, where I was advised by Prof. Volker Roth.  Prior to this, I received my MSc at the University of the Witwatersrand, South Africa. Apart from research, I enjoy travelling, learning about other cultures, playing badminton and cooking.
     - name: Andrew Ross
       site: https://asross.github.io/
       title: PhD Graduate
