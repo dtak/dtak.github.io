@@ -1,3 +1,11 @@
+- title: '"If it didn’t happen, why would I change my decision?": How Judges Respond to Counterfactual Explanations for the Public Safety Assessment'
+  authors: 'Y Yacoby, B Green, C L Griffin, F Doshi-Velez'
+  venue: 'CHI Workshop on Human Centered Explainable AI (HCXAI)'
+  year: '2022'
+  links:
+   - text: pdf
+     url: https://arxiv.org/pdf/2205.05424.pdf
+
 - title: 'Generalizing Off-Policy Evaluation From a Causal Perspective For Sequential Decision-Making'
   authors: 'S Parbhoo, S Joshi, F Doshi-Velez'
   venue: 'Preprint'
