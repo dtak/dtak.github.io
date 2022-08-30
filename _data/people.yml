@@ -21,60 +21,52 @@
       image: /images/people/marton.jpg       
     - name: Isaac Lage
       site: https://isaaclage.github.io/
-      title: PhD Candidate, 5th Year
+      title: PhD Candidate, 6th Year
       image: /images/people/ike.jpg
       hover: /images/cat_corn.png
       blurb: |-
         In my research, I work on improving human-machine decision making by optimizing machine learning models with human feedback. In my free time, I enjoy cooking, and playing board games with my partner and cat (the cat is a sore loser).
     - name: Yaniv Yacoby
-      title: PhD Candidate, 5th Year
+      title: PhD Candidate, 6th Year
       site: https://yanivyacoby.github.io/
       hover: /images/tricera_corn.png
       image: /images/people/yaniv.jpg
       blurb: |-
         I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
     - name: Jiayu Yao
-      title: PhD Candidate, 5th Year
+      title: PhD Candidate, 6th Year
       site: https://yaojiayu0826.github.io
       image: /images/people/jiayu.jpg
       hover: /images/bunny_corn.png
     - name: Beau Coker
-      title: PhD Candidate, 4th Year
+      title: PhD Candidate, 5th Year
       site: https://beaucoker.github.io 
       image: /images/people/beau.jpg
       hover: /images/fish_corn.png
     - name: Anna Trella
-      title: PhD Student, 2nd Year
+      title: PhD Student, 3rd Year
       site: https://annatrella.github.io/
       image: /images/people/anna.jpg
       hover: /images/pika_corn.png
       blurb: |-
         I did my undergrad at UC Berkeley in Applied Math and a minor in American History. In industry, I worked for 2 years as a Software Development Engineer at Amazon. I was the technical lead for mobile app development in the acquisition of Whole Foods Market onto Amazon.com and the launch of Amazon Fresh 2 hour delivery as a core Prime benefit. I enjoy dancing, playing the piano, preforming a one person show of Hamilton the Musical to myself, and playing Nintendo games!
-    - name: Sarah Rathnam
-      title: PhD Student, 2nd Year
-      site: https://sarahrathnam.github.io
-      image: /images/pony_green.png
-      hover: /images/pony_cyan.png
     - name: Abhishek Sharma
-      title: PhD Student, 2nd Year
+      title: PhD Student, 3rd Year
       image: /images/people/abhishek.jpg
       hover: /images/squirel_corn.png
       blurb: |-
         My research interest lie in probabilistic machine learning and decision-focused modeling, and my methods are strongly motivated by applications in healthcare.
       site: https://abhishekshar.com/
     - name: Eura Shin
-      title: PhD Student, 2nd Year
+      title: PhD Student, 3rd Year
       image: /images/people/eura.jpg
       hover: /images/a_corn.png
       site: https://eurashin.github.io/
-    - name: Anita Mahinpei
-      title: Masters Student
-      image: /images/people/anita.jpg
-      hover: /images/pony_orange.png
-    - name: Justin Clark
-      title: Masters Student
-      image: /images/people/justin.png
-      hover: /images/pony_purple.png
+    - name: Sarah Rathnam
+      title: PhD Student, 2nd Year
+      site: https://sarahrathnam.github.io
+      image: /images/pony_green.png
+      hover: /images/pony_cyan.png
     
 - section: "Former Members"
   members:
