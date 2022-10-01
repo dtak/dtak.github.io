@@ -1,3 +1,11 @@
+- title: 'Mitigating the Effects of Non-Identifiability on Inference for Bayesian Neural Networks with Latent Variables'
+  authors: 'Y Yacoby, W Pan, F Doshi-Velez'
+  venue: 'JMLR'
+  year: '2022'
+  links:
+   - text: pdf
+     url: https://arxiv.org/pdf/2205.05424.pdf
+
 - title: '"If it didn’t happen, why would I change my decision?": How Judges Respond to Counterfactual Explanations for the Public Safety Assessment'
   authors: 'Y Yacoby, B Green, C L Griffin, F Doshi-Velez'
   venue: 'HCOMP 2022 and CHI Workshop on Human Centered Explainable AI (HCXAI)'
