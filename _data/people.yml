@@ -18,7 +18,14 @@
       title: Postdoctoral Fellow
       site: https://mhavasi.github.io
       hover: /images/pen_corn.png
-      image: /images/people/marton.jpg       
+      image: /images/people/marton.jpg
+    - name: Siddharth Swaroop
+      title: Postdoctoral Fellow
+      site: https://siddharthswaroop.github.io
+      hover: /images/pony_purple.png
+      image: /images/people/siddharth.jpg
+      blurb: |-
+        I work on (the ML side of) human-computer interaction ideas, as well as probabilistic models, Bayesian neural networks, and continual lifelong learning. When I am not thinking about those things, I enjoy playing board games and racquet sports.
     - name: Isaac Lage
       site: https://isaaclage.github.io/
       title: PhD Candidate, 6th Year
