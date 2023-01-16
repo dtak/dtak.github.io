@@ -65,22 +65,22 @@
       hover: /images/a_corn.png
       site: https://eurashin.github.io/
     - name: Sarah Rathnam
-      title: PhD Student, 2nd Year
+      title: PhD Student, 2st Year
       site: https://sarahrathnam.github.io
       image: /images/pony_green.png
       hover: /images/pony_cyan.png
     - name: Esther Brown
       title: PhD Student, 1nd Year
-      image: /images/pony_cyan.png
-      hover: /images/pony_green.png      
+      image: /images/pony_red.png
+      hover: /images/pony_purple.png      
     - name: Léo Benac
-      title: PhD Student, 1nd Year
+      title: PhD Student, 1st Year
       image: /images/pony_blue.png
       hover: /images/pony_cyan.png      
       blurb: |-
         I am a first-year Ph.D. student at DTAK. My primary research interest lies in Reinforcement Learning in Healthcare Settings. More specifically I’m interested in developing novel methods to help clinicians understand better which treatments are more appropriate depending on the patients features. In my free time, I love playing and watching basketball.
     - name: Robert Tello Ayala
-      title: PhD Student, 1nd Year
+      title: PhD Student, 1st Year
       image: /images/pony_purple.png
       hover: /images/pony_blue.png      
 
