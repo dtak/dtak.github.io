@@ -75,13 +75,13 @@
       hover: /images/pony_purple.png      
     - name: Léo Benac
       title: PhD Student, 1st Year
-      image: /images/pony_blue.png
+      image: /images/leo.png
       hover: /images/pony_cyan.png      
       blurb: |-
         I am a first-year Ph.D. student at DTAK. My primary research interest lies in Reinforcement Learning in Healthcare Settings. More specifically I’m interested in developing novel methods to help clinicians understand better which treatments are more appropriate depending on the patients features. In my free time, I love playing and watching basketball.
     - name: Robert Tello Ayala
       title: PhD Student, 1st Year
-      image: /images/pony_purple.png
+      image: /images/robert.png
       hover: /images/pony_blue.png      
 
 - section: "Former Members"
