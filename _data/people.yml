@@ -40,11 +40,6 @@
       image: /images/people/yaniv.jpg
       blurb: |-
         I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
-    - name: Jiayu Yao
-      title: PhD Candidate, 6th Year
-      site: https://yaojiayu0826.github.io
-      image: /images/people/jiayu.jpg
-      hover: /images/bunny_corn.png
     - name: Beau Coker
       title: PhD Candidate, 5th Year
       site: https://beaucoker.github.io 
@@ -74,9 +69,28 @@
       site: https://sarahrathnam.github.io
       image: /images/pony_green.png
       hover: /images/pony_cyan.png
-    
+    - name: Esther Brown
+      title: PhD Student, 1nd Year
+      image: /images/pony_cyan.png
+      hover: /images/pony_green.png      
+    - name: Léo Benac
+      title: PhD Student, 1nd Year
+      image: /images/pony_blue.png
+      hover: /images/pony_cyan.png      
+      blurb: |-
+        I am a first-year Ph.D. student at DTAK. My primary research interest lies in Reinforcement Learning in Healthcare Settings. More specifically I’m interested in developing novel methods to help clinicians understand better which treatments are more appropriate depending on the patients features. In my free time, I love playing and watching basketball.
+    - name: Robert Tello Ayala
+      title: PhD Student, 1nd Year
+      image: /images/pony_purple.png
+      hover: /images/pony_blue.png      
+
 - section: "Former Members"
   members:
+    - name: Jiayu Yao
+      title: PhD Candidate, 6th Year
+      site: https://yaojiayu0826.github.io
+      image: /images/people/jiayu.jpg
+      hover: /images/bunny_corn.png  
     - name: Sonali Parbhoo
       site: https://sites.google.com/view/sonali-parbhoo/home
       title: Postdoctoral Fellow
