@@ -71,7 +71,7 @@
       hover: /images/pony_cyan.png
     - name: Esther Brown
       title: PhD Student, 1st Year
-      image: /images/esther.png
+      image: /images/people/esther.png
       hover: /images/pony_blue.png 
       blurb: |-
         Hi! I am a PhD student in Computer Science at Harvard University. I am advised by Professor Finale Doshi-Velez of the Data to Actionable Knowledge (DtAK) Lab. My research focuses on reinforcement learning and machine learning models for decision-making under uncertainty.
