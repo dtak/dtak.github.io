@@ -71,6 +71,7 @@
       hover: /images/pony_cyan.png
     - name: Esther Brown
       title: PhD Student, 1st Year
+      site: https://estherbrown1.github.io/
       image: /images/people/esther.png
       hover: /images/pony_blue.png 
       blurb: |-
@@ -83,6 +84,7 @@
         I am a first-year Ph.D. student at DTAK. My primary research interest lies in Reinforcement Learning in Healthcare Settings. More specifically I’m interested in developing novel methods to help clinicians understand better which treatments are more appropriate depending on the patients features. In my free time, I love playing and watching basketball.
     - name: Robert Tello Ayala
       title: PhD Student, 1st Year
+      site: https://robtelloayala.github.io/
       image: /images/robert.png
       hover: /images/pony_blue.png      
 
