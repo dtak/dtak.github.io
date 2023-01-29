@@ -78,15 +78,22 @@
         Hi! I am a PhD student in Computer Science at Harvard University. I am advised by Professor Finale Doshi-Velez of the Data to Actionable Knowledge (DtAK) Lab. My research focuses on reinforcement learning and machine learning models for decision-making under uncertainty.
     - name: Léo Benac
       title: PhD Student, 1st Year
-      image: /images/leo.png
+      image: /images/people/leo.png
       hover: /images/pony_cyan.png      
       blurb: |-
         I am a first-year Ph.D. student at DTAK. My primary research interest lies in Reinforcement Learning in Healthcare Settings. More specifically I’m interested in developing novel methods to help clinicians understand better which treatments are more appropriate depending on the patients features. In my free time, I love playing and watching basketball.
     - name: Robert Tello Ayala
       title: PhD Student, 1st Year
       site: https://robtelloayala.github.io/
-      image: /images/robert.png
-      hover: /images/pony_blue.png      
+      image: /images/people/robert.png
+      hover: /images/pony_blue.png  
+    - name: Paigu
+      title: Lab Therapy Dog
+      image: /images/people/paigu.png
+      hover: /images/pony_purple.png  
+      blurb: |-
+        Paigu is the official DtAK dog and the unofficial DtAK therapist. Paigu holds regular office hours for DtAK members throughout the year. When he is not working hard at caring for the DtAK community, he can be found chewing, scratching, sniffing, licking, and is generally up to no good.
+      
 
 - section: "Former Members"
   members:
