@@ -14,11 +14,6 @@
       image: /images/people/weiwei.jpg
       blurb: |-
         I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
-    - name: Marton Havasi
-      title: Postdoctoral Fellow
-      site: https://mhavasi.github.io
-      hover: /images/pen_corn.png
-      image: /images/people/marton.jpg
     - name: Siddharth Swaroop
       title: Postdoctoral Fellow
       site: https://siddharthswaroop.github.io
@@ -26,25 +21,6 @@
       image: /images/people/siddharth.jpg
       blurb: |-
         I work on (the ML side of) human-computer interaction ideas, as well as probabilistic models, Bayesian neural networks, and continual lifelong learning. When I am not thinking about those things, I enjoy playing board games and racquet sports.
-    - name: Isaac Lage
-      site: https://isaaclage.github.io/
-      title: PhD Candidate, 6th Year
-      image: /images/people/ike.jpg
-      hover: /images/cat_corn.png
-      blurb: |-
-        In my research, I work on improving human-machine decision making by optimizing machine learning models with human feedback. In my free time, I enjoy cooking, and playing board games with my partner and cat (the cat is a sore loser).
-    - name: Yaniv Yacoby
-      title: PhD Candidate, 6th Year
-      site: https://yanivyacoby.github.io/
-      hover: /images/tricera_corn.png
-      image: /images/people/yaniv.jpg
-      blurb: |-
-        I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
-    - name: Beau Coker
-      title: PhD Candidate, 5th Year
-      site: https://beaucoker.github.io 
-      image: /images/people/beau.jpg
-      hover: /images/fish_corn.png
     - name: Anna Trella
       title: PhD Candidate, 3rd Year
       site: https://annatrella.github.io/
@@ -97,6 +73,30 @@
 
 - section: "Former Members"
   members:
+    - name: Yaniv Yacoby
+      title: PhD Graduate
+      site: https://yanivyacoby.github.io/
+      hover: /images/tricera_corn.png
+      image: /images/people/yaniv.jpg
+      blurb: |-
+        I work on uncertainty quantification and tractable approximate inference for deep Bayesian latent variable models, with applications in health-care. Before joining DtAK, I earned my Masters in Music in Contemporary Improvisation from the New England Conservatory in 2016 and my AB in Computer Science from Harvard College in 2015.
+    - name: Beau Coker
+      title: PhD Graduate
+      site: https://beaucoker.github.io 
+      image: /images/people/beau.jpg
+      hover: /images/fish_corn.png  
+    - name: Isaac Lage
+      site: https://isaaclage.github.io/
+      title: PhD Graduate
+      image: /images/people/ike.jpg
+      hover: /images/cat_corn.png
+      blurb: |-
+        In my research, I work on improving human-machine decision making by optimizing machine learning models with human feedback. In my free time, I enjoy cooking, and playing board games with my partner and cat (the cat is a sore loser).  
+    - name: Marton Havasi
+      title: Postdoctoral Fellow
+      site: https://mhavasi.github.io
+      hover: /images/pen_corn.png
+      image: /images/people/marton.jpg  
     - name: Jiayu Yao
       title: PhD Graduate
       site: https://yaojiayu0826.github.io
