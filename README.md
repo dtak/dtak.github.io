@@ -1,6 +1,6 @@
 # DtAK Lab Website
 
-This is the DtAK website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io).
+This is the DtAK website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io). 
 
 ## To add your [publications](https://dtak.github.io/publications)
 
