@@ -1,11 +1,7 @@
 ---
-permalink: /
-title: "Data to Actionable Knowledge Lab"
-excerpt: "AI + Negotation"
-author_profile: true
-redirect_from: 
-  - /negotiation/
-  - /negotiation.html
+layout: archive
+title: "AI + Negotiation"
+permalink: /Negotiation/
 ---
 
 (AI + Negotiation Placeholder)
