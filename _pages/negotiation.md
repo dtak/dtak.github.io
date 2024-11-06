@@ -22,9 +22,10 @@ A number of DtAK members are actively working in the AI+Negotiation research ini
 ### Research Collaborations
 We work closely with researchers in Human-Computer Interaction (HCI) and practitioners from the frontline humanitarian negotiation community. Our collaborators include:
 
-- [Krzysztof Gajos](https://www.eecs.harvard.edu/~kgajos/), [Zilin Ma](https://scholar.harvard.edu/zilinma/home) of the ***Intelligent Interactive Systems Group***, at the Harvard School of Engineering and Applied Sciences
+- [Krzysztof Gajos](https://www.eecs.harvard.edu/~kgajos/) and [Zilin Ma](https://scholar.harvard.edu/zilinma/home) of the ***Intelligent Interactive Systems Group***, at the Harvard School of Engineering and Applied Sciences
 - [Claude Bruderlein](https://www.hks.harvard.edu/about/claude-bruderlein) at the Harvard Kennedy School of Government
 - Frontline negotiation practitioners, through [***Frontline Associates***](https://www.frontline-associates.org/aboutus)
+- The Computational Science and Engineering Capstone Course at the Harvard School of Engineering and Applied Sciences
 
 We are always interested in new research connections! For collaboration, please reach out to Weiwei Pan (weiweipan at harvard dot edu).
 
@@ -35,5 +36,6 @@ In 2025-2026, our work will be partially supported by a research grant from [Coo
 [***“ChatGPT, Don’t Tell Me What to Do”: Designing AI for Context Analysis in Humanitarian Frontline Negotiations***](https://arxiv.org/pdf/2410.09139), Z Ma, Y Mei, C Bruderlein, K Gajos, W Pan
 
 ### Activities and Events
-In March 2025, DtAK, in collaboration with Frontline Associates will be hosting an AI+Negotation Hackathon (with a focus on climate negotiation) at Harvard University. 
+- In March 2025, DtAK, in collaboration with Frontline Associates, will be co-hosting an AI+Negotation Hackathon (with a focus on climate negotiation) at Harvard University.
+- During Summer 2024, DtAK, in collaboration with Frontline Associates, co-organized an online [summer program](https://www.frontline-associates.org/activities/educational-program/summer-program) on AI+Negotiation for practioners from different domains of negotiation (including climate negotiation, humanitarian access and migration).
 
