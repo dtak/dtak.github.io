@@ -4,7 +4,9 @@ title: "AI + Negotiation"
 permalink: /Negotiation/
 ---
 
-Since 2023, the Data to Actionable Knowledge (DtAK) lab has been leading an interdiciplinary research initiative to understand the impact of AI on frontline humanitarian negotiation. Humanitarian negotiations in conflict zones, known as *frontline negotiation*, are often adversarial, complex, and high-risk. Negotiators must navigate a wide range of conflicting perspectives by accurately and quickly synthesizing large amounts of unstructured information from various sources. Given recent advances in the ability of large language models (LLMs) to synthesize and extract patterns from natural language data, communities of negotiation practioners have begun to experiment with using LLM-based AI-tools to support their workflows.
+Since 2023, the Data to Actionable Knowledge (DtAK) lab has been leading an interdiciplinary research initiative to understand the impact of AI on frontline humanitarian negotiation. 
+
+Humanitarian negotiations in conflict zones, known as *frontline negotiation*, are often adversarial, complex, and high-risk. Negotiators must navigate a wide range of conflicting perspectives by accurately and quickly synthesizing large amounts of unstructured information from various sources. Given recent advances in the ability of large language models (LLMs) to synthesize and extract patterns from natural language data, communities of negotiation practioners have begun to experiment with using LLM-based AI-tools to support their workflows.
 
 However, since frontline negotation is high-stakes and risk-sensitive, it is important for us to systematically study how AI tools can be responsibly and ethically developed and used in these contexts. Our research focuses on three areas:
 
@@ -13,7 +15,7 @@ However, since frontline negotation is high-stakes and risk-sensitive, it is imp
 4. **Exploring Complementarity in Combining Traditional and Modern AI Approaches**: we aim to understand how to combine traditional machine learning approaches with modern AI for reasoning and planning tasks in frontline negotiation. We aim to improve task-performance as well as the steerability and interpretability of AI systems in these contexts.
 
 ### Core DtAK Members
-A number of DtAK members are actively working in the AI + Negotiation research initiative
+A number of DtAK members are actively working in the AI+Negotiation research initiative:
 - [Weiwei Pan](https://onefishy.github.io)
 - [Finale Doshi-Velez](https://finale.seas.harvard.edu/)
 
@@ -30,7 +32,7 @@ We are always interested in new research connections! For collaboration, please 
 In 2025-2026, our work will be partially supported by a research grant from [Cooperative AI](https://www.cooperativeai.com).
 
 ### Publications
-[***“ChatGPT, Don’t Tell Me What to Do”: Designing AI for Context Analysis in Humanitarian Frontline Negotiations***](https://arxiv.org/pdf/2410.09139), Z Ma, Y Mei, C Bruderlein, K Gajos
+[***“ChatGPT, Don’t Tell Me What to Do”: Designing AI for Context Analysis in Humanitarian Frontline Negotiations***](https://arxiv.org/pdf/2410.09139), Z Ma, Y Mei, C Bruderlein, K Gajos, W Pan
 
 ### Activities and Events
 In March 2025, DtAK, in collaboration with Frontline Associates will be hosting an AI+Negotation Hackathon (with a focus on climate negotiation) at Harvard University. 
