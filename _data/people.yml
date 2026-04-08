@@ -2,18 +2,11 @@
   members:
     - name: Finale Doshi-Velez
       site: https://finale.seas.harvard.edu/
-      image: /images/people/finale.jpg
+      image: /images/people/finale.png
       hover: /images/zebra_corn.png
       title: Principal Investigator
       blurb: |- 
         Finale has been an afficianado of all things unicorn since 2005 and currently heads a team of mischieve-makers and chaos stokers at DtAK.
-    - name: Weiwei Pan
-      title: Research Scientist, Assistant Director of Graduate Studies in Data Science
-      site: https://onefishy.github.io
-      hover: /images/dodo_corn.png
-      image: /images/people/weiwei.jpg
-      blurb: |-
-        I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
     - name: Esther Brown
       title: PhD Candidate, 4th Year
       site: https://estherbrown1.github.io/
@@ -39,16 +32,39 @@
       site: https://hiwot-belay-tadesse.github.io
       image: /images/people/hiwot.png
       hover: /images/pony_purple.png        
-    - name: Paigu
-      title: Director of Student Support
-      image: /images/people/paigu.png
-      hover: /images/pony_purple.png  
+    - name: Sukanya Krishna
+      title: PhD Student, 2nd Year
+      image: /images/people/sukanya.png
       blurb: |-
-        Paigu is the official DtAK dog and the unofficial DtAK therapist. Paigu holds regular office hours for DtAK members throughout the year. When he is not working hard at caring for the DtAK community, he can be found chewing, scratching, sniffing, licking, and is generally up to no good.
+        I am a 2nd year PhD student in Computer Science. I study how AI systems represent uncertainty, form beliefs, and support decision-making under imperfect information. My work focuses on developing calibrated, human-centered machine learning methods for high-stakes domains like public health, where reliable uncertainty and interpretability are critical for real-world decisions.
+    - name: Michelle Si
+      title: PhD Student, 1st Year
+      image: /images/pony_green.png
+    - name: Jonas Raedler
+      title: Incoming PhD Student
+      image: /images/pony_red.png
+#    - name: Paigu
+#      title: Director of Student Support
+#      image: /images/people/paigu.png
+#      hover: /images/pony_purple.png  
+#      blurb: |-
+#        Paigu is the official DtAK dog and the unofficial DtAK therapist. Paigu holds regular office hours for DtAK members throughout the year. When he is not working hard at caring for the DtAK community, he can be found chewing, scratching, sniffing, licking, and is generally up to no good.
+    - name: Kyran Romero
+      title: Post Baccalaureate Fellow, 1st Year
+      image: /images/people/kyran.png
+      blurb: |-
+        I focus on personalizing AI assistance for decision making under uncertainty. Specifically, I work to tailor AI recommendations for different types of users, split among metrics such as: AI reliance, task capability, and expertise level!
       
 
 - section: "Former Members"
   members:
+    - name: Weiwei Pan
+      title: Research Scientist, Assistant Director of Graduate Studies in Data Science
+      site: https://onefishy.github.io
+      hover: /images/dodo_corn.png
+      image: /images/people/weiwei.jpg
+      blurb: |-
+        I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. I like to spend my spare time engineering DtAK shennanigans.
     - name: Siddharth Swaroop
       title: Postdoctoral Fellow
       site: https://siddharthswaroop.github.io
@@ -64,26 +80,26 @@
       blurb: |-
         I research how to model, understand, and improve human decision-making behavior.
     - name: Anna Trella
-      title: PhD graduate
+      title: PhD Graduate
       site: https://annatrella.github.io/
       image: /images/people/anna.jpg
       hover: /images/pika_corn.png
       blurb: |-
         I did my undergrad at UC Berkeley in Applied Math and a minor in American History. In industry, I worked for 2 years as a Software Development Engineer at Amazon. I was the technical lead for mobile app development in the acquisition of Whole Foods Market onto Amazon.com and the launch of Amazon Fresh 2 hour delivery as a core Prime benefit. I enjoy dancing, playing the piano, preforming a one person show of Hamilton the Musical to myself, and playing Nintendo games!
     - name: Abhishek Sharma
-      title: PhD graduate
+      title: PhD Graduate
       image: /images/people/abhishek.jpg
       hover: /images/squirel_corn.png
       blurb: |-
         My research interest lie in probabilistic machine learning and decision-focused modeling, and my methods are strongly motivated by applications in healthcare.
       site: https://abhishekshar.com/
     - name: Eura Shin
-      title: PhD graduate
+      title: PhD Graduate
       image: /images/people/eura.jpg
       hover: /images/a_corn.png
       site: https://eurashin.github.io/
     - name: Sarah Rathnam
-      title: PhD graduate
+      title: PhD Graduate
       site: https://sarahrathnam.github.io
       image: /images/people/sarah.png
       hover: /images/pony_cyan.png
